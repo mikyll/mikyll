@@ -2,21 +2,21 @@
   <h1 align="center">Mikyll</h1>
 </p>
 
-[![linux][linux-shield]][linux-url]
-[![debian][debian-shield]][debian-url]
-[![android][android-shield]][android-url]
-[![windows][windows-shield]][windows-url]
-[![java][java-shield]][java-url]
-[![c][c-shield]][c-url]
-[![bash][bash-shield]][bash-url]
 [![javascript][javascript-shield]][javascript-url]
-[![html][html-shield]][html-url]
-[![css][css-shield]][css-url]
-[![latex][latex-shield]][latex-url]
-[![unity][unity-shield]][unity-url]
-[![visual-studio][vs-shield]][vs-url]
-[![sublime][sublime-shield]][sublime-url]
 [![coffee][coffee-shield]][coffee-url]
+[![linux][linux-shield]][linux-url]
+[![java][java-shield]][java-url]
+[![html][html-shield]][html-url]
+[![debian][debian-shield]][debian-url]
+[![visual-studio][vs-shield]][vs-url]
+[![c][c-shield]][c-url]
+[![css][css-shield]][css-url]
+[![windows][windows-shield]][windows-url]
+[![android][android-shield]][android-url]
+[![latex][latex-shield]][latex-url]
+[![sublime][sublime-shield]][sublime-url]
+[![bash][bash-shield]][bash-url]
+[![unity][unity-shield]][unity-url]
 
 ## Ciao! 👋 Click <a href="https://github.com/mikyll/mikyll/blob/main/README.md">here</a> for the English version
 
@@ -106,18 +106,21 @@ Amo i PokéMon ![Blaziken Mini](https://user-images.githubusercontent.com/565568
 [bash-url]: https://www.gnu.org/software/bash/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
+<!-- markdown languages -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [html-url]: https://www.html.it/
-[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[css-url]: https://www.w3schools.com/css/
 [latex-shield]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
 [latex-url]: https://www.latex-project.org/
+[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://www.w3schools.com/css/
+<!-- Engine & IDE -->
 [unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]: https://unity.com/
 [vs-shield]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 [vs-url]: https://visualstudio.microsoft.com/
 [sublime-shield]: https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
 [sublime-url]: https://www.sublimetext.com/
+
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 <!-- https://paypal.me/mikyll98 -->
