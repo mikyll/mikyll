@@ -21,15 +21,11 @@
 ## Ciao! 👋 Click <a href="https://github.com/mikyll/mikyll/blob/main/README.md">here</a> for the English version
 
 ### Sono Michele Righi, uno studente magistrale dell'Alma Mater Studiorum - Università di Bologna. Mi piace programmare, realizzare app e videogiochi, ed il mio sogno è fare un'esperienza lavorativa presso Google.
-<p align="left">
-<ul>
-  <li>💻 Linguaggi di programmazione principali: Java, C, Bash, JavaScript</li>
-  <li>🔭 Attualmente sto lavorando sul mio primo videogioco realizzato in C con SDL2</li>
-  <li>🌱 Attualmente sto imparando C++, SDL2, Unity</li>
-  <li>👯 <del>Sto cercando collaboratori per <a href="https://github.com/mikyll/ROQuiz">ROQuiz</a></del></li>
-  <li>🤔 Avrei bisogno di una mano per risolvere i problemi principali di <a href="https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype">Unity DOTS Prototype</a></li>
-</ul>
-</p>
+- 💻 Linguaggi di programmazione principali: Java, C, Bash, JavaScript
+- 🔭 Attualmente sto lavorando sul mio primo videogioco realizzato in C con SDL2
+- 🌱 Attualmente sto imparando C++, SDL2, Unity
+- 👯 ~~Sto cercando collaboratori per [ROQuiz](https://github.com/mikyll/ROQuiz)~~
+- 🤔 Avrei bisogno di una mano per risolvere i problemi principali di [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
 
 [![Mikyll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true)](https://github.com/mikyll/mikyll)
 <!-- <a href="https://twitter.com/Digibatness"><img src="https://github.com/mikyll/mikyll/blob/main/gfx/Mikyll.png" float="right" alt="Mikyll by digibat" width="30%"/></a> -->
