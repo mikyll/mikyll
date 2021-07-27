@@ -18,12 +18,12 @@
 [![sublime][sublime-shield]][sublime-url]
 [![coffee][coffee-shield]][coffee-url]
 
-## Hi there 👋
+## Ciao! 👋 Clicca <a href="https://github.com/mikyll/mikyll/blob/main/README.it.md">qui</a> per la versione in Italiano
 
 ### I'm Michele Righi, a MSc student at Alma Mater Studiorum - Bologna University. I love coding and making apps, and my dream is to have a job experience at Google.
 <p align="left">
 <ul>
-  <li>💻 Lead languages: Java, C, Bash, JavaScript</li>
+  <li>💻 Lead programming languages: Java, C, Bash, JavaScript</li>
   <li>🔭 I’m currently working on my first SDL2 game</li>
   <li>🌱 I’m currently learning C++, SDL2, Unity</li>
   <li>👯 I’m looking to collaborate on <a href="https://github.com/mikyll/ROQuiz">ROQuiz</a></li>
@@ -80,8 +80,8 @@ I love PokèMon ![Blaziken Mini](https://user-images.githubusercontent.com/56556
   - Geox Theater, Padova 2019 - Mike Shinoda
   - Fabrique, Milan 2019 - Skillet, Devour the Day
   - Alcatraz, Milan 2020 - Five Finger Death Punch, Megadeth, Bad Wolves
-- Small Country Division, VolleyBall Europeans, 📍 Cyprus: played as libero for San Marino.
-- One week at Atlas Language English, 📍 Dublin
+- Small Country Division, VolleyBall Europeans, 📍 Cyprus: played as libero for San Marino
+- One week at Atlas Language School, 📍 Dublin
 
 ![Meooow](https://user-images.githubusercontent.com/56556806/127066377-355926fa-644e-4d29-bcc0-7dfd8e0d9686.gif)
 ![Helluva Boss: Moxxie](https://user-images.githubusercontent.com/56556806/127073105-b5c7f4f3-b6ba-4566-873c-dd56bc3f6e98.gif)
