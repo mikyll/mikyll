@@ -121,5 +121,5 @@ I love PokèMon ![Blaziken Mini](https://user-images.githubusercontent.com/56556
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 <!-- https://paypal.me/mikyll98 -->
-F7DF1E
+
 <!-- more badges: https://badgen.net/ -->
