@@ -20,7 +20,7 @@
 
 ## Ciao! 👋 Clicca [qui](https://github.com/mikyll/mikyll/blob/main/README.it.md) per la versione in Italiano
 
-### I'm Michele Righi, a MSc student at Alma Mater Studiorum - Bologna University. I love coding and making apps, and my dream is to have a job experience at Google.
+### I'm Michele Righi, a MSc student at Alma Mater Studiorum - Bologna University. I love coding, making apps and videogames, and my dream is to have a job experience at Google.
 - 💻 Lead programming languages: Java, C, Bash, JavaScript
 - 🔭 I’m currently working on my first SDL2 game
 - 🌱 I’m currently learning C++, SDL2, Unity
