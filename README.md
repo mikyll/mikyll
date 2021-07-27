@@ -26,7 +26,7 @@
   <li>💻 Lead languages: Java, C, Bash, JavaScript</li>
   <li>🔭 I’m currently working on my first SDL2 game</li>
   <li>🌱 I’m currently learning C++, SDL2, Unity</li>
-  <li>👯 I’m looking to collaborate on [ROQuiz](https://github.com/mikyll/ROQuiz)</li>
+  <li>👯 I’m looking to collaborate on <a href="https://github.com/mikyll/ROQuiz">ROQuiz</a></li>
   <li>🤔 I’m looking for help with solving the main issues of <a href="https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype">Unity DOTS Prototype</a></li>
 </ul>
 </p>
