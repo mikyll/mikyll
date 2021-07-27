@@ -48,8 +48,8 @@
 - ![Dance](https://user-images.githubusercontent.com/56556806/127065104-59b588ad-aacb-46b0-9bd2-a85e55bd0490.gif)Self-taught shuffle dancer ![grub_dance](https://user-images.githubusercontent.com/56556806/127064887-e11b3ff8-dc00-4f0d-91ee-4a9daf0078c0.gif)
 - 🎮 Videogames, mostly MOBA and FPS. Top 3 games: League of Legends 5000+ hours, Call of Duty 1000+ hours, Genshin Impact 300+ hours
 - 💥 Animes, top 3: Attack on Titans, Parasyte, My Hero Academia
-- 🏐 I love volleyball but I also played football for many years but didn't like it too much
-- 🏋🏻‍♂️ I like to workout and 🏃🏻 running (mostly in the rain 🌧)
+- 🏐 I love playing volleyball. I also played football for many years but didn't like it too much
+- 🏋🏻‍♂️ I like working out and 🏃🏻 running (mostly in the rain 🌧)
 <!-- - ♟ Board & card games
 - 🧩 Brain teasers-->
 
@@ -68,7 +68,7 @@ I love PokèMon ![Blaziken Mini](https://user-images.githubusercontent.com/56556
 - 🍟 Favourite foods: ❣ cannelloni & 🍣 sushi
 
 ### ⚡ Fun facts
-- 🌲 I'm allergic to like 20 species of plants and tree
+- 🌲 I'm allergic to like 20 species of plants and trees
 - 🌙 I can focus much better during night time
 - 🤔 I've got a tattoo of something I really like, guess it!
 
