@@ -2,8 +2,8 @@
   <h1 align="center">Mikyll</h1>
 </p>
 
-[![javascript][javascript-shield]][javascript-url]
 [![coffee][coffee-shield]][coffee-url]
+[![javascript][javascript-shield]][javascript-url]
 [![linux][linux-shield]][linux-url]
 [![java][java-shield]][java-url]
 [![html][html-shield]][html-url]
@@ -104,7 +104,7 @@ I love PokèMon ![Blaziken Mini](https://user-images.githubusercontent.com/56556
 [c-url]: http://www.open-std.org/jtc1/sc22/wg14/
 [bash-shield]: https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 [bash-url]: https://www.gnu.org/software/bash/
-[javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[javascript-shield]: https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
 <!-- markdown languages -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -121,7 +121,7 @@ I love PokèMon ![Blaziken Mini](https://user-images.githubusercontent.com/56556
 [sublime-shield]: https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
 [sublime-url]: https://www.sublimetext.com/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 <!-- https://paypal.me/mikyll98 -->
 
