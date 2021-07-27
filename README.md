@@ -119,6 +119,7 @@ I love PokèMon ![Blaziken Mini](https://user-images.githubusercontent.com/56556
 [sublime-shield]: https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
 [sublime-url]: https://www.sublimetext.com/
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-[coffee-url]: https://paypal.me/mikyll98
+[coffee-url]: https://www.buymeacoffee.com/mikyll
+<!-- https://paypal.me/mikyll98 -->
 
 <!-- more badges: https://badgen.net/ -->
