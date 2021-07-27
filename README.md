@@ -18,18 +18,14 @@
 [![sublime][sublime-shield]][sublime-url]
 [![coffee][coffee-shield]][coffee-url]
 
-## Ciao! 👋 Clicca <a href="https://github.com/mikyll/mikyll/blob/main/README.it.md">qui</a> per la versione in Italiano
+## Ciao! 👋 Clicca [qui](https://github.com/mikyll/mikyll/blob/main/README.it.md) per la versione in Italiano
 
 ### I'm Michele Righi, a MSc student at Alma Mater Studiorum - Bologna University. I love coding and making apps, and my dream is to have a job experience at Google.
-<p align="left">
-<ul>
-  <li>💻 Lead programming languages: Java, C, Bash, JavaScript</li>
-  <li>🔭 I’m currently working on my first SDL2 game</li>
-  <li>🌱 I’m currently learning C++, SDL2, Unity</li>
-  <li>👯 I’m looking to collaborate on <a href="https://github.com/mikyll/ROQuiz">ROQuiz</a></li>
-  <li>🤔 I’m looking for help with solving the main issues of <a href="https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype">Unity DOTS Prototype</a></li>
-</ul>
-</p>
+- 💻 Lead programming languages: Java, C, Bash, JavaScript
+- 🔭 I’m currently working on my first SDL2 game
+- 🌱 I’m currently learning C++, SDL2, Unity
+- 👯 ~~I’m looking to collaborate on [ROQuiz](https://github.com/mikyll/ROQuiz)~~
+- 🤔 I’m looking for help with solving the main issues of [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
 
 [![Mikyll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true)](https://github.com/mikyll/mikyll)
 <!-- <a href="https://twitter.com/Digibatness"><img src="https://github.com/mikyll/mikyll/blob/main/gfx/Mikyll.png" float="right" alt="Mikyll by digibat" width="30%"/></a> -->
