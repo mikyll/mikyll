@@ -28,6 +28,7 @@
 - 🤔 I’m looking for help with solving the main issues of [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
 
 [![Mikyll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true)](https://github.com/mikyll/mikyll)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact)](https://github.com/mikyll/mikyll)
 <!-- <a href="https://twitter.com/Digibatness"><img src="https://github.com/mikyll/mikyll/blob/main/gfx/Mikyll.png" float="right" alt="Mikyll by digibat" width="30%"/></a> -->
 
 -------
@@ -85,7 +86,7 @@ I love PokèMon ![Blaziken Mini](https://user-images.githubusercontent.com/56556
 ![LoL: Viktor](https://user-images.githubusercontent.com/56556806/127073328-3ba60fb8-c277-4bd5-8b5f-f79ef2de5c81.gif)
   
   
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact)](https://github.com/mikyll/mikyll)-->
+
 </details>
 
 <!-- OS -->
