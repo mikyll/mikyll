@@ -71,8 +71,8 @@ Amo i PokéMon ![Blaziken Mini](https://user-images.githubusercontent.com/565568
   
 ### 🎉 Eventi a cui ho partecipato
 - 🎫 Concerti:
-  - I-Days, Milano 2017 - Linkin Park, Blink-182, Sum41, Nothing But Thieves, Sick Tamburo
-  - Rocks Festival, Milano 2018 - Thirty Seconds to Mars, Mike Shinoda
+  - I-Days, Monza 2017 - Linkin Park, Blink-182, Sum41, Nothing But Thieves, Sick Tamburo
+  - Rocks Festival, Monza 2018 - Thirty Seconds to Mars, Mike Shinoda
   - Cocoricò, Riccione 2018 - Hardwell
   - Geox Theater, Padova 2019 - Mike Shinoda
   - Fabrique, Milano 2019 - Skillet, Devour the Day
