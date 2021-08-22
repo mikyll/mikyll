@@ -44,7 +44,7 @@
 ### 👀 Hobbies
 - ![Dance](https://user-images.githubusercontent.com/56556806/127065104-59b588ad-aacb-46b0-9bd2-a85e55bd0490.gif)Self-taught shuffle dancer ![grub_dance](https://user-images.githubusercontent.com/56556806/127064887-e11b3ff8-dc00-4f0d-91ee-4a9daf0078c0.gif)
 - 🎮 Videogames, mostly MOBA and FPS. Top 3 games: League of Legends 5000+ hours, Call of Duty 1000+ hours, Genshin Impact 300+ hours
-- 💥 Animes, top 3: Attack on Titans, Parasyte, My Hero Academia
+- 💥 Animes, top 3: Attack on Titans, Parasyte, Charlotte
 - 🏐 I love playing volleyball. I also played football for many years but didn't like it too much
 - 🏋🏻‍♂️ I like working out and 🏃🏻 running (mostly in the rain 🌧)
 <!-- - ♟ Board & card games
