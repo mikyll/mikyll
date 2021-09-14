@@ -68,6 +68,7 @@ I love PokèMon ![Blaziken Mini](https://user-images.githubusercontent.com/56556
 - 🌲 I'm allergic to like 20 species of plants and trees
 - 🌙 I can focus much better during night time
 - 🤔 I've got a tattoo of something I really like, guess it!
+- 🏀 I can spin a ball on every finger of my left hand
 
 ### 🎉 Events I attended
 - 🎫 Concerts:
