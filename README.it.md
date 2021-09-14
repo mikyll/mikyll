@@ -68,6 +68,7 @@ Amo i PokéMon ![Blaziken Mini](https://user-images.githubusercontent.com/565568
 - 🌲 Sono allergico a tipo 20 specie di piante e alberi differenti
 - 🌙 Mi concentro molto meglio di notte
 - 🤔 Ho il tatuaggio di una delle cose che mi piacciono, prova ad indovinare quale!
+- 🏀 So far girare una palla su ogni dita della mano sinistra
   
 ### 🎉 Eventi a cui ho partecipato
 - 🎫 Concerti:
