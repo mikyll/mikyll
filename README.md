@@ -28,7 +28,7 @@
 - 🤔 I’m looking for help with solving the main issues of [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
 
 [![Mikyll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true)](https://github.com/mikyll/mikyll)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8)](https://github.com/mikyll/mikyll)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8&hide=kotlin)](https://github.com/mikyll/mikyll)
 <!-- <a href="https://twitter.com/Digibatness"><img src="https://github.com/mikyll/mikyll/blob/main/gfx/Mikyll.png" float="right" alt="Mikyll by digibat" width="30%"/></a> -->
 
 -------
