@@ -27,8 +27,9 @@
 - 👯 ~~Sto cercando collaboratori per [ROQuiz](https://github.com/mikyll/ROQuiz)~~
 - 🤔 Avrei bisogno di una mano per risolvere i problemi principali di [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
 
-[![Mikyll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true)](https://github.com/mikyll/mikyll)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8)](https://github.com/mikyll/mikyll)
+<img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8" width=40%/>
+<!--[![Mikyll's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true)](https://github.com/mikyll/mikyll)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8)](https://github.com/mikyll/mikyll)-->
 <!-- <a href="https://twitter.com/Digibatness"><img src="https://github.com/mikyll/mikyll/blob/main/gfx/Mikyll.png" float="right" alt="Mikyll by digibat" width="30%"/></a> -->
 ![Snake animation](https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg)
 
