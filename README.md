@@ -30,6 +30,18 @@
 -------
 
 <details>
+  <summary><b>Best Projects I've Worked On</b></summary>
+  
+  <h3><a href="https://github.com/TryKatChup/Poke-Pi-Dex">Poké-Pi-Dex</a></h3>
+  <a href="https://github.com/TryKatChup">TryKatChup</a> and I recreated a Pokédex clone, which recognizes pictures of Pokémon from the first generation, using a Convolutional Neural Network. It's built on Raspberry Pi4 with LCD display, PiCamera, speaker and some other components attached. The case is made of recycled cardboard. 🌱<br/>
+  <p align="center">
+    <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Pok%C3%A9-Pi-Dex.png" width=50%/></a>
+    <br/>
+    Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
+  </p>
+</details>
+
+<details>
   <summary><b>GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/></a>
