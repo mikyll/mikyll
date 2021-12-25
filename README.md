@@ -39,6 +39,12 @@
 </details>
 
 <details>
+  <summary><b>Waka Stats</b></summary>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
+<details>
   <summary><b>🧐 More about me</b></summary>
   
   ### 🔎 Interests
