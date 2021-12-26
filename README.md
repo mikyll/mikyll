@@ -29,6 +29,15 @@
 
 -------
 
+<details open="">
+  <summary><b>GitHub Stats</b></summary>
+  <p align="center">
+    <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/></a>
+    <a href="https://github.com/mikyll/mikyll"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8" width=40%/></a>
+    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+  </p>
+</details>
+
 <details>
   <summary><b>Best Projects I've Worked On</b></summary>
   
@@ -38,15 +47,6 @@
     <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Pok%C3%A9-Pi-Dex.png" width=50%/></a>
     <br/>
     Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
-  </p>
-</details>
-
-<details>
-  <summary><b>GitHub Stats</b></summary>
-  <p align="center">
-    <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/></a>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8" width=40%/></a>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
 
