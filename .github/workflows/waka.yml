@@ -2,9 +2,15 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
+  
   schedule:
     # Runs at 08:00 UTC
     - cron: "0 8 * * *"
+  
+  # run on every push on the main branch
+  push:
+    branches:
+    - main
 
 jobs:
   update-readme:
