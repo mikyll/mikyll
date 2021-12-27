@@ -100,7 +100,7 @@ YAML     4 mins          ▓░░░░░░░░░░░░░░░░░�
   ### ⚡ Fun facts
   - 🌲 I'm allergic to like 20 species of plants and trees
   - 🌙 I can focus much better during night time
-  - 🤔 I've got a tattoo of something I really like, guess it!
+  - 🤔 I've got a tattoo of something I really like, guess it! <!-- Hint: italic -->
   - 🏀 I can spin a ball on every finger of my left hand
 
   ### 🎉 Events I attended
