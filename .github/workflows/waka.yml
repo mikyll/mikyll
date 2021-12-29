@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   
   schedule:
-    # Runs at 08:00 UTC
-    - cron: "0 8 * * *"
+    # Runs at 00:00 UTC
+    - cron: "0 0 * * *"
   
   # run on every push on the main branch
   push:
