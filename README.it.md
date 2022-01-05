@@ -71,10 +71,6 @@ YAML     5 mins          ▒░░░░░░░░░░░░░░░░░�
 <details>
   <summary><b>🧐 Di più su di me</b></summary>
   
--------
-## 🧐 Di più su di me
-<details>
-  
   ### 🔎 Interessi
   - 👾 Sviluppo di videogiochi (SDL2, Unity)
   - ❓ Risoluzione di problemi
