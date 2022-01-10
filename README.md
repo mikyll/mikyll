@@ -34,7 +34,7 @@
 -------
 
 <details open="">
-  <summary><b>GitHub Stats</b></summary>
+  <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>
     <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/></a>
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary><b>Best Projects I've Worked On</b></summary>
+  <summary><b>🖥️ Best Projects I've Worked On</b></summary>
   
   <h3><a href="https://github.com/TryKatChup/Poke-Pi-Dex">Poké-Pi-Dex</a></h3>
   <a href="https://github.com/TryKatChup">TryKatChup</a> and I recreated a Pokédex clone, which recognizes pictures of Pokémon from the first generation, using a Convolutional Neural Network. It's built on Raspberry Pi4 with LCD display, PiCamera, speaker and some other components attached. The case is made of recycled cardboard. 🌱<br/>
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary><b>My Programming Stats</b></summary>
+  <summary><b>📊 My Programming Stats</b></summary>
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2050%20mins-blue)
