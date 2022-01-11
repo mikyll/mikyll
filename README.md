@@ -159,7 +159,7 @@ Git Config               0 secs              ░░░░░░░░░░░�
 [java-url]: https://www.java.com
 [c-shield]: https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white
 [c-url]: http://www.open-std.org/jtc1/sc22/wg14/
-[bash-shield]: https://img.shields.io/badge/Bash_Script-303030?style=flat-square&logo=gnu-bash&logoColor=white
+[bash-shield]: https://img.shields.io/badge/Bash_Script-353535?style=flat-square&logo=gnu-bash&logoColor=white
 [bash-url]: https://www.gnu.org/software/bash/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-FFDD00?style=flat-square&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
