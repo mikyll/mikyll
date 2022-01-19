@@ -21,9 +21,6 @@
 [![unity][unity-shield]][unity-url]
 
 </div>
-  
-## Ciao! 👋 Clicca [qui](https://github.com/mikyll/mikyll/blob/main/README.it.md) per la versione in Italiano
-
 
 ## Ciao! 👋 Clicca [qui](https://github.com/mikyll/mikyll/blob/main/README.it.md) per la versione in Italiano
 
