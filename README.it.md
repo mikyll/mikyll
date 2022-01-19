@@ -29,6 +29,7 @@
 - 🌱 Attualmente sto imparando Go, Flutter, SDL2, C++, Unity
 - 👯 ~~Sto cercando collaboratori per [ROQuiz](https://github.com/mikyll/ROQuiz)~~
 - 🤔 Avrei bisogno di una mano per risolvere i problemi principali di [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
+- 📫 Come contattarmi: [![linkedin][linkedin-shield]][linkedin-url]
 
 -------
 
