@@ -1,6 +1,5 @@
-<p align="center">
+<div align="center">
   <h1 align="center">Mikyll</h1>
-</p>
 
 [![coffee][coffee-shield]][coffee-url]
 [![javascript][javascript-shield]][javascript-url]
@@ -20,6 +19,8 @@
 [![markdown][md-shield]][md-url]
 [![bash][bash-shield]][bash-url]
 [![unity][unity-shield]][unity-url]
+
+</div>
 
 ## Ciao! 👋 Click <a href="https://github.com/mikyll/mikyll/blob/main/README.md">here</a> for the English version
 
