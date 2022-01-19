@@ -140,7 +140,7 @@ YAML     5 mins          ▒░░░░░░░░░░░░░░░░░�
 [java-url]: https://www.java.com
 [c-shield]: https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white
 [c-url]: http://www.open-std.org/jtc1/sc22/wg14/
-[bash-shield]: https://img.shields.io/badge/Bash_Script-303030?style=flat-square&logo=gnu-bash&logoColor=white
+[bash-shield]: https://img.shields.io/badge/Bash_Script-353535?style=flat-square&logo=gnu-bash&logoColor=white
 [bash-url]: https://www.gnu.org/software/bash/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-FFDD00?style=flat-square&logo=javascript&logoColor=black
 [javascript-url]: https://www.javascript.com/
@@ -164,6 +164,8 @@ YAML     5 mins          ▒░░░░░░░░░░░░░░░░░�
 <!-- Engine & IDE -->
 [unity-shield]: https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white
 [unity-url]: https://unity.com/
+[eclipse-shield]: https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse-ide&logoColor=white
+[eclipse-url]: https://www.eclipse.org/
 [vs-shield]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white
 [vs-url]: https://visualstudio.microsoft.com/
 [sublime-shield]: https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important
@@ -171,6 +173,9 @@ YAML     5 mins          ▒░░░░░░░░░░░░░░░░░�
 <!-- Frameworks & Libraries -->
 [flutter-shield]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white
 [flutter-url]: https://flutter.dev/
+<!-- Social Networks -->
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/michele-righi/?locale=en_US
 <!-- Others -->
 [raspberry-shield]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi
 [raspberry-url]: https://www.raspberrypi.org/
