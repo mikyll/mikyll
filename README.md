@@ -61,17 +61,15 @@
   <summary><b>📊 My Programming Stats</b></summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2034%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
-🌆 Daytime    280 commits    ███████░░░░░░░░░░░░░░░░░░   30.37% 
+🌆 Daytime    279 commits    ███████░░░░░░░░░░░░░░░░░░   30.26% 
 🌃 Evening    259 commits    ███████░░░░░░░░░░░░░░░░░░   28.09% 
-🌙 Night      307 commits    ████████░░░░░░░░░░░░░░░░░   33.3%
+🌙 Night      308 commits    ████████░░░░░░░░░░░░░░░░░   33.41%
 
 ```
 
@@ -85,7 +83,7 @@ Go                       16 hrs 55 mins      ███████████�
 ```
 
 
- Last Updated on 03/02/2022 08:37:50 UTC
+ Last Updated on 04/02/2022 08:10:10 UTC
 <!--END_SECTION:waka-->
   
 </details>
