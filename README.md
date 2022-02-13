@@ -61,6 +61,8 @@
   <summary><b>📊 My Programming Stats</b></summary>
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%204%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -78,14 +80,14 @@
 
 ```text
 💬 Programming Languages: 
-Go                       9 hrs 26 mins       ████████████████████████░   98.64% 
-Java                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Go                       9 hrs 26 mins       ██████████████████████░░░   90.71% 
+Java                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.29% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0%
 
 ```
 
 
- Last Updated on 13/02/2022 08:12:26 UTC
+ Last Updated on 13/02/2022 08:19:18 UTC
 <!--END_SECTION:waka-->
   
 </details>
