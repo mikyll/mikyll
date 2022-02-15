@@ -3,15 +3,15 @@ name: Update Commits Data for Snake
 on:
   # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 8 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
   
   # run on every push on the main branch
-  push:
-    branches:
-    - main
+  #push:
+  #  branches:
+  #  - main
 
 
 jobs:
