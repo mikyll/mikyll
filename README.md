@@ -25,9 +25,9 @@
 ## Ciao! 👋 Clicca [qui](https://github.com/mikyll/mikyll/blob/main/README.it.md) per la versione in Italiano
 
 ### I'm Michele Righi, a MSc student at Alma Mater Studiorum - Bologna University. I love coding, making apps and videogames, and my dream is to have a job experience at Google.
-- 💻 Lead programming languages: Java, C, Bash, JavaScript, Python
+- 💻 Lead programming languages: Java, C, Go, Python, Bash, JavaScript
 - 🔭 I’m currently working on a PokèMon recognition PokèDex project, my first SDL2 game, and a JavaFX multiplayer lobby system TCP-based
-- 🌱 I’m currently learning Go, Flutter, SDL2, C++, Unity
+- 🌱 I’m currently learning Flutter, SDL2, C++, Unity
 - 👯 ~~I’m looking to collaborate on [ROQuiz](https://github.com/mikyll/ROQuiz)~~
 - 🤔 I’m looking for help with solving the main issues of [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
 - 📫 How to reach me: [![linkedin][linkedin-shield]][linkedin-url]
