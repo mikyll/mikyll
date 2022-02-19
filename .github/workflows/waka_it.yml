@@ -50,6 +50,8 @@ jobs:
 
           # Save the updated stats in a temporary file
           stats=$(mktemp /tmp/tmp_stats.XXXXXX)
+          ls "/tmp/"
+          echo "$stats"
           sed -n "${ssl},${sel}p" "$src" > "$stats"
 
           # Remove the stats from the destination file
