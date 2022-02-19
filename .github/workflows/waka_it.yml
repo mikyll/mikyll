@@ -51,6 +51,9 @@ jobs:
           # Save the updated stats in a temporary file
           stats=$(mktemp /tmp/tmp_stats.XXXXXX)
           sed -n "${ssl},${sel}p" "$src" > "$stats"
+          
+          echo -e "\n\n\nDEBUG 1"
+          cat "$stats" # test
 
           # Remove the stats from the destination file
           if [[ $(expr $dest_end_line - $dest_start_line) -gt 1 ]]
@@ -60,6 +63,10 @@ jobs:
             tmp=$(mktemp /tmp/tmp_readme_replace.XXXXXX)
             sed -e "${dsl},${del}d" "$dest" > "$tmp"
             cat "$tmp" > "$dest"
+            
+            echo -e "\n\n\nDEBUG 2"
+            cat "$tmp" #test
+            
             rm "$tmp"
           fi
 
@@ -69,10 +76,17 @@ jobs:
           tmp=$(mktemp /tmp/tmp_readme_replace.XXXXXX)
           # copy the head (lines until waka start keyword)
           head -n $dest_start_line "$dest" > "$tmp"
+          
+          echo -e "\n\n\nDEBUG 3"
+          cat "$stats" # test
+          
           # copy the stats
           cat "$stats" >> "$tmp"
           # copy the tail (lines from waka end keyword, which is waka start + 1 since we've deleted the old stats)
           tail -n +"$dsl" "$dest" >> "$tmp"
+          
+          echo -e "\n\n\nDEBUG 4"
+          cat "$stats" # test
 
           cat "$tmp" > "$dest"
           rm "$tmp"
