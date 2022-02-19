@@ -5,7 +5,7 @@ on:
   
   schedule:
     # Runs at 08:10 UTC
-    - cron: "10 8 * * *"
+    - cron: "30 8 * * *"
   
 defaults:
   run:
