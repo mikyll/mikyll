@@ -52,7 +52,7 @@ jobs:
           stats=$(mktemp /tmp/tmp_stats.XXXXXX)
           sed -n "${ssl},${sel}p" "$src" > "$stats"
           
-          echo -e "\n\n\nDEBUG 1"
+          echo -e "\n\n\nDEBUG 1 ================================"
           cat "$stats" # test
 
           # Remove the stats from the destination file
@@ -64,7 +64,7 @@ jobs:
             sed -e "${dsl},${del}d" "$dest" > "$tmp"
             cat "$tmp" > "$dest"
             
-            echo -e "\n\n\nDEBUG 2"
+            echo -e "\n\n\nDEBUG 2 ================================"
             cat "$tmp" #test
             
             rm "$tmp"
@@ -77,7 +77,7 @@ jobs:
           # copy the head (lines until waka start keyword)
           head -n $dest_start_line "$dest" > "$tmp"
           
-          echo -e "\n\n\nDEBUG 3"
+          echo -e "\n\n\nDEBUG 3 ================================"
           cat "$stats" # test
           
           # copy the stats
@@ -85,7 +85,7 @@ jobs:
           # copy the tail (lines from waka end keyword, which is waka start + 1 since we've deleted the old stats)
           tail -n +"$dsl" "$dest" >> "$tmp"
           
-          echo -e "\n\n\nDEBUG 4"
+          echo -e "\n\n\nDEBUG 4 ================================"
           cat "$stats" # test
 
           cat "$tmp" > "$dest"
