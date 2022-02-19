@@ -36,8 +36,8 @@ jobs:
           ssl=$(expr $src_start_line + 1)
           sel=$(expr $src_end_line - 1)
 
-          if ! [[ $src_start_line =~ '^[0-9]+$' ]]; then echo "ERROR: missing keyword <!--START_SECTION:waka--> in $src"; exit 1; fi
-          if ! [[ $src_end_line =~ '^[0-9]+$' ]]; then echo "ERROR: missing keyword <!--END_SECTION:waka--> in $src"; exit 1; fi
+          if ! [[ $src_start_line =~ '^[0-9]+$' ]]; then echo "❌ ERROR: missing keyword <!--START_SECTION:waka--> in $src"; exit 1; fi
+          if ! [[ $src_end_line =~ '^[0-9]+$' ]]; then echo "❌ ERROR: missing keyword <!--END_SECTION:waka--> in $src"; exit 1; fi
 
           # Find the lines that contains waka stats in destination file
           dest_start_line=$(cat "$dest" | grep -n "<\!--START_SECTION:waka-->" | cut -d ':' -f 1)
@@ -45,8 +45,8 @@ jobs:
           dsl=$(expr $dest_start_line + 1)
           del=$(expr $dest_end_line - 1)
 
-          if ! [[ $dest_start_line =~ '^[0-9]+$' ]]; then echo "ERROR: missing keyword <!--START_SECTION:waka--> in $dest"; exit 1; fi
-          if ! [[ $dest_end_line =~ '^[0-9]+$' ]]; then echo "ERROR: missing keyword <!--END_SECTION:waka--> in $dest"; exit 1; fi
+          if ! [[ $dest_start_line =~ '^[0-9]+$' ]]; then echo "❌ ERROR: missing keyword <!--START_SECTION:waka--> in $dest"; exit 1; fi
+          if ! [[ $dest_end_line =~ '^[0-9]+$' ]]; then echo "❌ ERROR: missing keyword <!--END_SECTION:waka--> in $dest"; exit 1; fi
 
           # Save the updated stats in a variable
           stats=$(sed -n "${ssl},${sel}p" "$src")
@@ -72,7 +72,8 @@ jobs:
           echo "$stats" >> "$tmp"
           # copy the tail (lines from waka end keyword, which is waka start + 1 since we've deleted the old stats)
           tail -n +"$dsl" "$dest" >> "$tmp"
-
+          
+          # Update the Readme with the updated stats
           cat "$tmp" > "$dest"
           rm "$tmp"
           
@@ -84,7 +85,7 @@ jobs:
             git config --global user.name "mikyll"
             git commit -m "Update README.md"
             git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
-            echo "✅ DEBUG: Readme ITA Aggiornato!"
+            echo "✅ DEBUG: Readme ITA correctly updated"
           else
-            echo "❌ "
+            echo "❌ ERROR: Readme ITA not updated"
           fi
