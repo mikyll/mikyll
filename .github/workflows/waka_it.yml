@@ -1,0 +1,90 @@
+name: Waka ITA Readme
+
+on:
+  workflow_dispatch:
+  
+  schedule:
+    # Runs at 08:10 UTC
+    - cron: "10 8 * * *"
+  
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  update-readme:
+    name: Update this repo's IT README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - run: cd ${{ github.workspace }}
+      - name: Aggiornamento README ITA
+        run: |
+          src="README.md"
+          dest="README.it.md"
+
+          # Keywords
+          start_kw="<\!--START_SECTION:waka-->"
+          end_kw="<\!--END_SECTION:waka-->"
+
+          # Find the lines that contains waka stats in source file
+          src_start_line=$(cat "$src" | grep -n "<\!--START_SECTION:waka-->" | cut -d ':' -f 1)
+          src_end_line=$(cat "$src" | grep -n "<\!--END_SECTION:waka-->" | cut -d ':' -f 1)
+          ssl=$(expr $src_start_line + 1)
+          sel=$(expr $src_end_line - 1)
+
+          if ! [[ $src_start_line =~ '^[0-9]+$' ]]; then echo "ERROR: missing keyword <!--START_SECTION:waka--> in $src"; exit 1; fi
+          if ! [[ $src_end_line =~ '^[0-9]+$' ]]; then echo "ERROR: missing keyword <!--END_SECTION:waka--> in $src"; exit 1; fi
+
+          # Find the lines that contains waka stats in destination file
+          dest_start_line=$(cat "$dest" | grep -n "<\!--START_SECTION:waka-->" | cut -d ':' -f 1)
+          dest_end_line=$(cat "$dest" | grep -n "<\!--END_SECTION:waka-->" | cut -d ':' -f 1)
+          dsl=$(expr $dest_start_line + 1)
+          del=$(expr $dest_end_line - 1)
+
+          if ! [[ $dest_start_line =~ '^[0-9]+$' ]]; then echo "ERROR: missing keyword <!--START_SECTION:waka--> in $dest"; exit 1; fi
+          if ! [[ $dest_end_line =~ '^[0-9]+$' ]]; then echo "ERROR: missing keyword <!--END_SECTION:waka--> in $dest"; exit 1; fi
+
+          # Save the updated stats in a variable
+          stats=$(sed -n "${ssl},${sel}p" "$src")
+
+          # Remove the stats from the destination file
+          if [[ $(expr $dest_end_line - $dest_start_line) -gt 1 ]]
+          then
+            echo "DEBUG: removing lines from $dsl to $del, in $dest"
+
+            tmp=$(mktemp /tmp/tmp_readme_replace.XXXXXX)
+            sed -e "${dsl},${del}d" "$dest" > "$tmp"
+            cat "$tmp" > "$dest"
+            rm "$tmp"
+          fi
+
+          # Insert the updated stats into the destination file
+          echo "DEBUG: inserting updated stats in $dest"
+
+          tmp=$(mktemp /tmp/tmp_readme_replace.XXXXXX)
+          # copy the head (lines until waka start keyword)
+          head -n $dest_start_line "$dest" > "$tmp"
+          # copy the stats
+          echo "$stats" >> "$tmp"
+          # copy the tail (lines from waka end keyword, which is waka start + 1 since we've deleted the old stats)
+          tail -n +"$dsl" "$dest" >> "$tmp"
+
+          cat "$tmp" > "$dest"
+          rm "$tmp"
+          
+          # Check if there are changes
+          if [[ -n $(git status -s) ]]
+          then
+            # Commit & Push changes
+            git add "$file_readme"
+            git config --global user.name "mikyll"
+            git commit -m "Update README.md"
+            git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+            echo "✅ DEBUG: Readme ITA Aggiornato!"
+          else
+            echo "❌ "
+          fi
