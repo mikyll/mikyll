@@ -48,8 +48,9 @@ jobs:
           if ! [[ $dest_start_line =~ ^[0-9]+$ ]]; then echo "❌ ERROR: missing keyword <!--START_SECTION:waka--> in $dest"; exit 1; fi
           if ! [[ $dest_end_line =~ ^[0-9]+$ ]]; then echo "❌ ERROR: missing keyword <!--END_SECTION:waka--> in $dest"; exit 1; fi
 
-          # Save the updated stats in a variable
-          stats=$(sed -n "${ssl},${sel}p" "$src")
+          # Save the updated stats in a temporary file
+          stats=$(mktemp /tmp/tmp_stats.XXXXXX)
+          sed -n "${ssl},${sel}p" "$src" > "$stats"
 
           # Remove the stats from the destination file
           if [[ $(expr $dest_end_line - $dest_start_line) -gt 1 ]]
@@ -72,10 +73,10 @@ jobs:
           echo "$stats" >> "$tmp"
           # copy the tail (lines from waka end keyword, which is waka start + 1 since we've deleted the old stats)
           tail -n +"$dsl" "$dest" >> "$tmp"
-          
-          # Update the Readme with the updated stats
+
           cat "$tmp" > "$dest"
           rm "$tmp"
+          rm "$stats"
           
           # Check if there are changes
           if [[ -n $(git status -s) ]]
