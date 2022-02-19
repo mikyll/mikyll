@@ -36,8 +36,8 @@ jobs:
           ssl=$(expr $src_start_line + 1)
           sel=$(expr $src_end_line - 1)
 
-          if ! [[ $src_start_line =~ '^[0-9]+$' ]]; then echo "❌ ERROR: missing keyword <!--START_SECTION:waka--> in $src"; exit 1; fi
-          if ! [[ $src_end_line =~ '^[0-9]+$' ]]; then echo "❌ ERROR: missing keyword <!--END_SECTION:waka--> in $src"; exit 1; fi
+          if ! [[ $src_start_line =~ ^[0-9]+$ ]]; then echo "❌ ERROR: missing keyword <!--START_SECTION:waka--> in $src"; exit 1; fi
+          if ! [[ $src_end_line =~ ^[0-9]+$ ]]; then echo "❌ ERROR: missing keyword <!--END_SECTION:waka--> in $src"; exit 1; fi
 
           # Find the lines that contains waka stats in destination file
           dest_start_line=$(cat "$dest" | grep -n "<\!--START_SECTION:waka-->" | cut -d ':' -f 1)
@@ -45,8 +45,8 @@ jobs:
           dsl=$(expr $dest_start_line + 1)
           del=$(expr $dest_end_line - 1)
 
-          if ! [[ $dest_start_line =~ '^[0-9]+$' ]]; then echo "❌ ERROR: missing keyword <!--START_SECTION:waka--> in $dest"; exit 1; fi
-          if ! [[ $dest_end_line =~ '^[0-9]+$' ]]; then echo "❌ ERROR: missing keyword <!--END_SECTION:waka--> in $dest"; exit 1; fi
+          if ! [[ $dest_start_line =~ ^[0-9]+$ ]]; then echo "❌ ERROR: missing keyword <!--START_SECTION:waka--> in $dest"; exit 1; fi
+          if ! [[ $dest_end_line =~ ^[0-9]+$ ]]; then echo "❌ ERROR: missing keyword <!--END_SECTION:waka--> in $dest"; exit 1; fi
 
           # Save the updated stats in a variable
           stats=$(sed -n "${ssl},${sel}p" "$src")
