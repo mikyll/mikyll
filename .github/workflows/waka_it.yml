@@ -50,8 +50,6 @@ jobs:
 
           # Save the updated stats in a temporary file
           stats=$(mktemp /tmp/tmp_stats.XXXXXX)
-          ls "/tmp/"
-          echo "$stats"
           sed -n "${ssl},${sel}p" "$src" > "$stats"
 
           # Remove the stats from the destination file
@@ -72,7 +70,7 @@ jobs:
           # copy the head (lines until waka start keyword)
           head -n $dest_start_line "$dest" > "$tmp"
           # copy the stats
-          echo "$stats" >> "$tmp"
+          cat "$stats" >> "$tmp"
           # copy the tail (lines from waka end keyword, which is waka start + 1 since we've deleted the old stats)
           tail -n +"$dsl" "$dest" >> "$tmp"
 
