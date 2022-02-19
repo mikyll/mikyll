@@ -49,11 +49,7 @@ jobs:
           if ! [[ $dest_end_line =~ ^[0-9]+$ ]]; then echo "❌ ERROR: missing keyword <!--END_SECTION:waka--> in $dest"; exit 1; fi
 
           # Save the updated stats in a temporary file
-          stats=$(mktemp /tmp/tmp_stats.XXXXXX)
-          sed -n "${ssl},${sel}p" "$src" > "$stats"
-          
-          echo -e "\n\n\nDEBUG 1 ================================"
-          cat "$stats" # test
+          stats=$(sed -n "${ssl},${sel}p" "$src")
 
           # Remove the stats from the destination file
           if [[ $(expr $dest_end_line - $dest_start_line) -gt 1 ]]
@@ -63,10 +59,6 @@ jobs:
             tmp=$(mktemp /tmp/tmp_readme_replace.XXXXXX)
             sed -e "${dsl},${del}d" "$dest" > "$tmp"
             cat "$tmp" > "$dest"
-            
-            echo -e "\n\n\nDEBUG 2 ================================"
-            cat "$tmp" #test
-            
             rm "$tmp"
           fi
 
@@ -77,26 +69,20 @@ jobs:
           # copy the head (lines until waka start keyword)
           head -n $dest_start_line "$dest" > "$tmp"
           
-          echo -e "\n\n\nDEBUG 3 ================================"
-          cat "$tmp" # test
-          
           # copy the stats
-          cat "$stats" >> "$tmp"
+          echo "$stats" >> "$tmp"
           # copy the tail (lines from waka end keyword, which is waka start + 1 since we've deleted the old stats)
           tail -n +"$dsl" "$dest" >> "$tmp"
           
-          echo -e "\n\n\nDEBUG 4 ================================"
-          cat "$tmp" # test
-
+          # finish
           cat "$tmp" > "$dest"
           rm "$tmp"
-          rm "$stats"
           
           # Check if there are changes
           if [[ -n $(git status -s) ]]
           then
             # Commit & Push changes
-            git add "$file_readme"
+            git add "$dest"
             git config --global user.name "mikyll"
             git commit -m "Update README.md"
             git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
