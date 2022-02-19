@@ -78,7 +78,7 @@ jobs:
           head -n $dest_start_line "$dest" > "$tmp"
           
           echo -e "\n\n\nDEBUG 3 ================================"
-          cat "$stats" # test
+          cat "$tmp" # test
           
           # copy the stats
           cat "$stats" >> "$tmp"
@@ -86,7 +86,7 @@ jobs:
           tail -n +"$dsl" "$dest" >> "$tmp"
           
           echo -e "\n\n\nDEBUG 4 ================================"
-          cat "$stats" # test
+          cat "$tmp" # test
 
           cat "$tmp" > "$dest"
           rm "$tmp"
