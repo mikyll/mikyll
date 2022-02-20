@@ -82,7 +82,7 @@ jobs:
             git config --global user.name "mikyll"
             git commit -m "Update README.md"
             git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
-            echo "✅ DEBUG: Readme ITA correctly updated"
+            echo "✔️ DEBUG: Readme ITA correctly updated"
           else
             echo "❌ ERROR: Readme ITA not updated"
           fi
