@@ -59,8 +59,6 @@
   <summary><b>Statistiche Waka</b></summary>
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33%20Thousand%20lines%20of%20code-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -85,7 +83,7 @@ Groovy                   16 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/03/2022 08:15:02 UTC
+ Last Updated on 06/03/2022 08:05:50 UTC
 <!--END_SECTION:waka-->
  
 </details>
