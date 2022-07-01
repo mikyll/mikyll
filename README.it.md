@@ -26,7 +26,7 @@
 
 ### Sono Michele Righi, uno studente magistrale dell'Alma Mater Studiorum - Università di Bologna. Mi piace programmare, realizzare app e videogiochi, ed il mio sogno è fare un'esperienza lavorativa presso Google.
 - 💻 Linguaggi di programmazione principali: Java, C, Go, Python, Bash, JavaScript
-- 🔭 Attualmente sto lavorando al progetto di un PokéDex basato sul riconoscimento dei Pokémon, al mio primo videogioco scritto in C usando SDL2
+- 🔭 Attualmente sto lavorando al mio primo videogioco scritto in C usando SDL2
 - 🌱 Attualmente sto imparando Flutter, SDL2, C++, Unity, e a programmare per GBA
 - 👯 ~~Sto cercando collaboratori per [ROQuiz](https://github.com/mikyll/ROQuiz)~~
 - 🤔 Avrei bisogno di una mano per risolvere i problemi principali di [Unity DOTS Prototype](https://github.com/mikyll/UnityDOTS-Thesis/tree/main/DOTS%20Prototype)
