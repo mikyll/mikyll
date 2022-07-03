@@ -5,7 +5,7 @@ on:
   
   schedule:
     # Runs at 08:00 UTC
-    - cron: "0 8 * * *"
+    - cron: "0 8 * * 1"
   
   # run on every push on the main branch
   #push:
