@@ -136,6 +136,7 @@ Perl                     1 min               ░░░░░░░░░░░�
     - Geox Theater, Padova 2019 - Mike Shinoda
     - Fabrique, Milano 2019 - Skillet, Devour the Day
     - Alcatraz, Milano 2020 - Five Finger Death Punch, Megadeth, Bad Wolves
+    - Arena, Verona 2022 - Gorillaz
   - Europei dei piccoli stati, 📍 Cipro: ho giocato nel ruolo di libero per San Marino
   - Una settimana presso la Atlas Language School, 📍 Dublino
 
