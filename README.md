@@ -141,6 +141,7 @@ Groovy                   20 mins             ░░░░░░░░░░░�
     - Fabrique, Milan 2019 - Skillet, Devour the Day
     - Alcatraz, Milan 2020 - Five Finger Death Punch, Megadeth, Bad Wolves
     - Arena, Verona 2022 - Gorillaz
+    - Unipol Arena, Bologna 2022 - Sum 41
   - Small Country Division, VolleyBall Europeans, 📍 Cyprus: played as libero for San Marino
   - One week at Atlas Language School, 📍 Dublin
 
