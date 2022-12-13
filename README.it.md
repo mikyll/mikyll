@@ -139,6 +139,7 @@ Groovy                   20 mins             ░░░░░░░░░░░�
     - Fabrique, Milano 2019 - Skillet, Devour the Day
     - Alcatraz, Milano 2020 - Five Finger Death Punch, Megadeth, Bad Wolves
     - Arena, Verona 2022 - Gorillaz
+    - Unipol Arena, Bologna 2022 - Sum 41
   - Europei dei piccoli stati, 📍 Cipro: ho giocato nel ruolo di libero per San Marino
   - Una settimana presso la Atlas Language School, 📍 Dublino
 
