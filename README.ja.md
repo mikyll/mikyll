@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋こんにちは！マイケルです😃
+## 👋チャオ！マイキーです😃
 
 -   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
 -   📚 ボローニャ大学 🏫 Alma Mater Studiorum のコンピューター工学修士課程の学生。
@@ -114,7 +114,7 @@
 
 ### [ポケパイデックス](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">トライキャットチャップ</a>そして、畳み込みニューラル ネットワークを使用して、第 1 世代のポケモンの写真を認識するポケモン図鑑のクローンを再作成しました。 LCDディスプレイ、PiCamera、スピーカー、その他のコンポーネントが取り付けられたRaspberry Pi4上に構築されています。ケースは再生段ボールを使用。 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a>そして、畳み込みニューラル ネットワークを使用して、第 1 世代のポケモンの写真を認識するポケモン図鑑のクローンを再作成しました。 LCDディスプレイ、PiCamera、スピーカー、その他のコンポーネントが取り付けられたRaspberry Pi4上に構築されています。ケースは再生段ボールを使用。 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
@@ -131,7 +131,7 @@
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
-### [WasteService](https://github.com/iss2022-BCR/WasteService)
+### [廃棄物サービス](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
