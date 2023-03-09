@@ -13,7 +13,7 @@
   &nbsp;
   <a title="Japanese" href="./README.ja.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/jp.svg"></kbd></a> 
   &nbsp;
-  <a title="Chinese" href="./README.cn.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/cn.svg"></kbd></a> 
+  <a title="Chinese" href="./README.zh-CN.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/cn.svg"></kbd></a> 
   &nbsp;
   <a title="Russian" href="./README.ru.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/ru.svg"></kbd></a> 
   <br/>
