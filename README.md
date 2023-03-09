@@ -23,7 +23,7 @@
 </div>
 <!-- https://www.terminalgif.com/ -->
 
-## 👋 Ciao! I'm Mikyll 😃
+## 👋 Ciao! I'm Michele 😃
 
 - 📍 Born in **San Marino** <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, currently living in Bologna, Italy <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 - 📚 MSc **Computer Engineering** student at 🏫 Alma Mater Studiorum - University of Bologna.
