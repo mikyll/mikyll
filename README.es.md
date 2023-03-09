@@ -24,11 +24,12 @@
   [![Followers][followers-shield]][followers-url]
   [![Total Stars][totstars-shield]][totstars-url]
   [![Repo Forks][forks-shield]][forks-url]
+  [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
 ## 👋 ¡Hola! soy miguel 😃
 
--   📍 Born in **San Marino**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📍 Nacido en**San Marino**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Maestría**Ingeniería Informática**estudiante en 🏫 Estudios Alma Mater - Universidad de Bolonia
 -   💡 Entusiasta del desarrollo de juegos y código abierto.
 
@@ -242,7 +243,7 @@
 
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
 
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 
