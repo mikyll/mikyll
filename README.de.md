@@ -114,7 +114,7 @@
 
 ### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">TryKatChup</a>und ich habe mithilfe eines Convolutional Neural Network einen Pokédex-Klon nachgebaut, der Bilder von Pokémon der ersten Generation erkennt. Es basiert auf Raspberry Pi4 mit LCD-Display, PiCamera, Lautsprecher und einigen anderen Komponenten. Die Hülle besteht aus recyceltem Karton. 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a> and I recreated a Pokédex clone, which recognizes pictures of Pokémon from the first generation, using a Convolutional Neural Network. It's built on Raspberry Pi4 with LCD display, PiCamera, speaker and some other components attached. The case is made of recycled cardboard. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
