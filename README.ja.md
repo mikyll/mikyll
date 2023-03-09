@@ -24,15 +24,16 @@
   [![Followers][followers-shield]][followers-url]
   [![Total Stars][totstars-shield]][totstars-url]
   [![Repo Forks][forks-shield]][forks-url]
+  [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
 ## 👋こんにちは！マイケルです😃
 
 -   📍 生まれ**サンマリノ**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
--   📚 修士課程**コンピューターエンジニア**🏫 Alma Mater Studies - ボローニャ大学の学生
+-   📚 修士課程**コンピューターエンジニア** student at 🏫 Alma Mater Studiorum - University of Bologna.
 -   💡 オープンソースで🎮 ゲーム開発愛好家。
 
-## 🧰 スキル
+## 🧰スキル
 
 ### 言語
 
@@ -126,7 +127,7 @@
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
-### [真ん中](https://github.com/GIP22-Pack-a-Punch/Moddy)
+### [Moddy](https://github.com/GIP22-Pack-a-Punch/Moddy)
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
@@ -186,7 +187,7 @@
 
 [c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
-[ADAシールド-]：
+[ada-shield]：
 
 [ada-url]: <!-- markdown languages -->
 
@@ -242,7 +243,7 @@
 
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
 
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 
