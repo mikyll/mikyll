@@ -29,8 +29,8 @@
 
 ## 👋 ¡Hola! soy miguel 😃
 
--   📍 Nacido en<b>San Marino</b><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚 Maestría<b>Ingeniería Informática</b>estudiante en 🏫 Estudios Alma Mater - Universidad de Bolonia
+-   📍 Nacido en San Marino<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📚 Estudiante de Maestría en Ingeniería Informática en 🏫 Estudios Alma Mater - Universidad de Bolonia.
 -   💡 Entusiasta del desarrollo de juegos y código abierto.
 
 ## 🧰 Habilidades
