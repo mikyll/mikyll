@@ -24,11 +24,12 @@
   [![Followers][followers-shield]][followers-url]
   [![Total Stars][totstars-shield]][totstars-url]
   [![Repo Forks][forks-shield]][forks-url]
+  [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 Ciao! I'm Michele 😃
+## 👋 Здравствуйте! Я Майкл 😃
 
--   📍 Родился в**Сан-Марино**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, currently living in Bologna, Italy <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📍 Родился в**Сан-Марино**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, в настоящее время живет в Болонье, Италия.<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Магистр**Компьютерная инженерия**студент 🏫 Alma Mater Studies - Болонский университет
 -   💡 Открытый исходный код и 🎮 энтузиаст разработки игр.
 
@@ -242,7 +243,7 @@
 
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
 
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 
