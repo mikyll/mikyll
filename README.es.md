@@ -29,11 +29,11 @@
 
 ## 👋 ¡Hola! soy miguel 😃
 
--   📍 Nacido en**San Marino**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚 Maestría**Ingeniería Informática**estudiante en 🏫 Estudios Alma Mater - Universidad de Bolonia
+-   📍 Nacido en<b>San Marino</b><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📚 Maestría<b>Ingeniería Informática</b>estudiante en 🏫 Estudios Alma Mater - Universidad de Bolonia
 -   💡 Entusiasta del desarrollo de juegos y código abierto.
 
-## 🧰 Skills
+## 🧰 Habilidades
 
 ### Idiomas
 
@@ -123,7 +123,7 @@
   Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
 </p>
 
-### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
+### [jonnino9000](https://github.com/Gionnino9000/Gionnino9000)
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
