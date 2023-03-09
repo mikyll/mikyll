@@ -1,29 +1,9 @@
-<!-- <div align="center">
-  <h1 align="center">Mikyll</h1>
-
-[![coffee][coffee-shield]][coffee-url]
-[![javascript][javascript-shield]][javascript-url]
-[![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
-[![raspberry-pi][raspberry-shield]][raspberry-url]
-[![visual-studio][vs-shield]][vs-url]
-[![flutter][flutter-shield]][flutter-url]
-[![c][c-shield]][c-url]
-[![python][python-shield]][python-url]
-[![windows][windows-shield]][windows-url]
-[![go][go-shield]][go-url]
-[![android][android-shield]][android-url]
-[![latex][latex-shield]][latex-url]
-[![c#][c#-shield]][c#-url]
-[![markdown][md-shield]][md-url]
-[![bash][bash-shield]][bash-url]
-[![unity][unity-shield]][unity-url]
-
-</div> -->
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/56556806/223774939-e2fd6b22-5ba7-4543-aee1-964821c0ddf0.gif">
+  <a title="English" href=""><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></a>
+  <a href="Italian" href=""><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></a>
+  <br/>
+  
+  <img src="https://user-images.githubusercontent.com/56556806/223774939-e2fd6b22-5ba7-4543-aee1-964821c0ddf0.gif">
 </div>
 <!-- https://www.terminalgif.com/ -->
 
@@ -37,8 +17,14 @@
 
 ### Languages
 
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
+  
+</p>
 <!--<p align="left"> 
-   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" /> </a> 
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -48,6 +34,32 @@
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>-->
+
+### Tools and Frameworks
+
+<p align="left"> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+
+</p>
+<!-- azure -->
+
+### Platforms
+
+<p align="left">
+  <a href="https://www.microsoft.com/windows" title="Microsoft Windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a> 
+  <a href="https://developer.android.com" title="Android" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://www.raspberrypi.com/" title="Raspberry Pi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a> 
+
+  
+</p>
+<!-- windows (https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg), linux -->
+
+## 📈 Stats
+<p align="center">
+  <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/></a>
+  <a href="https://github.com/mikyll/mikyll"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8" width=40%/></a>
+</p>
 
 ## ✉️ Contact Me
 
