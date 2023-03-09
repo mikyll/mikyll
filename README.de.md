@@ -29,8 +29,8 @@
 
 ## 👋 Hallo! Ich bin Michael 😃
 
--   📍 Geboren in<b>San Marino</b><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, lebe derzeit in Bologna, Italien<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚 MSc<b>Technische Informatik</b>Student an 🏫 Alma Mater Studies - University of Bologna
+-   📍 Geboren in San Marino<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, lebe derzeit in Bologna, Italien<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📚 MSc Computer Engineering Student an 🏫 Alma Mater Studiorum - Universität Bologna.
 -   💡 Enthusiast für Open Source und 🎮 Spieleentwicklung.
 
 ## 🧰 Fähigkeiten
@@ -131,7 +131,7 @@
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
-### [WasteService](https://github.com/iss2022-BCR/WasteService)
+### [AbfallService](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
