@@ -30,7 +30,7 @@
 ## 👋 您好！我是迈克尔😃
 
 -   📍出生于**圣马力诺**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙，现居意大利博洛尼亚<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚理学硕士**Computer Engineering**🏫 Alma Mater Studies - 博洛尼亚大学的学生
+-   📚理学硕士**计算机工程**🏫 Alma Mater Studies - 博洛尼亚大学的学生
 -   💡 开源和 🎮 游戏开发爱好者。
 
 ## 🧰技能
@@ -85,7 +85,7 @@
   
 </p>
 
-## 🔗 Links
+## 🔗 链接
 
 <p align="left">
   <a title="Website" href=""><img width="40" src="https://img.icons8.com/color/96/000000/domain.svg"></a> 
