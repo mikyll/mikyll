@@ -23,15 +23,15 @@
 </div>
 <!-- https://www.terminalgif.com/ -->
 
-## 👋 Ciao! I'm Mikyll 😃
+## 👋 Ciao! Sono Michele 😃
 
-- 📍 Born in **San Marino** <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, currently living in Bologna, Italy <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
-- 📚 MSc **Computer Engineering** student at 🏫 Alma Mater Studiorum - University of Bologna.
-- 💡 Open source and 🎮 game development enthusiast. 
+- 📍 Nato a **San Marino** <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, attualmente vivo a Bologna, in Italia <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+- 📚 Studente di **Ingegneria Informatica** presso 🏫 Alma Mater Studiorum - Università di Bologna.
+- Appassionato di 💡 Open source e 🎮 game development. 
 
-## 🧰 Skills
+## 🧰 Conoscenze
 
-### Languages
+### Linguaggi
 
 <p align="left"> 
   <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -51,7 +51,7 @@
   
 </p>
 
-### Tools and Frameworks
+### Strumenti e Framework
 
 <p align="left"> 
   <a title="Unity" href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a> 
@@ -70,7 +70,7 @@
   
 </p>
 
-### Platforms
+### Piattaforme
 
 <p align="left">
   <a title="Microsoft Windows" href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a> 
@@ -81,7 +81,7 @@
   
 </p>
 
-## 🔗 Links
+## 🔗 Link
 
 <p align="left">
   <a title="Website" href=""><img width="40" src="https://img.icons8.com/color/96/000000/domain.svg"></a> 
@@ -92,7 +92,7 @@
   <a title="Leetcode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
-## 📈 Stats
+## 📈 Statistiche
 
 <p align="center">
   <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>-->
@@ -102,7 +102,7 @@
   <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
 
-## 💻 Projects
+## 💻 Progetti
 
 ### [Poké-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
