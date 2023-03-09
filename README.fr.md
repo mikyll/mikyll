@@ -29,8 +29,8 @@
 
 ## 👋 Bonjour ! Je suis Michel 😃
 
--   📍 Né en<b>Saint Marin</b><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, vit actuellement à Bologne, Italie<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚 MSc<b>Ingénierie informatique</b>étudiant à 🏫 Alma Mater Studies - Université de Bologne
+-   📍 Né à Saint-Marin<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, vit actuellement à Bologne, Italie<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📚 MSc Computer Engineering student at 🏫 Alma Mater Studiorum - University of Bologna.
 -   💡 Passionné de développement de jeux open source et 🎮.
 
 ## 🧰 Compétences
