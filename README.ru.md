@@ -29,8 +29,8 @@
 
 ## 👋 Здравствуйте! Я Майкл 😃
 
--   📍 Родился в**Сан-Марино**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, в настоящее время живет в Болонье, Италия.<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚 Магистр**Компьютерная инженерия**студент 🏫 Alma Mater Studies - Болонский университет
+-   📍 Родился в<b>Сан-Марино</b><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, в настоящее время живет в Болонье, Италия.<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📚 Магистр<b>Компьютерная инженерия</b>студент 🏫 Alma Mater Studies - Болонский университет
 -   💡 Открытый исходный код и 🎮 энтузиаст разработки игр.
 
 ## 🧰 Навыки
