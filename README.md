@@ -1,21 +1,21 @@
 <div align="center">
   Language:
   &nbsp;
-  [ <a title="English" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> ]
+  [ <a title="English" href="./README.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> ]
   &nbsp;
-  <a title="Italian" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
+  <a title="Italian" href="./README.it.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
   &nbsp;
-  <a title="French" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/fr.svg"></kbd></a> 
+  <a title="French" href="./README.fr.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/fr.svg"></kbd></a> 
   &nbsp;
-  <a title="Spanish" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/es.svg"></kbd></a> 
+  <a title="Spanish" href="./README.es.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/es.svg"></kbd></a> 
   &nbsp;
-  <a title="German" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/de.svg"></kbd></a> 
+  <a title="German" href="./README.de.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/de.svg"></kbd></a> 
   &nbsp;
-  <a title="Japanese" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/jp.svg"></kbd></a> 
+  <a title="Japanese" href="./README.ja.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/jp.svg"></kbd></a> 
   &nbsp;
-  <a title="Chinese" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/cn.svg"></kbd></a> 
+  <a title="Chinese" href="./README.cn.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/cn.svg"></kbd></a> 
   &nbsp;
-  <a title="Russian" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/ru.svg"></kbd></a> 
+  <a title="Russian" href="./README.ru.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/ru.svg"></kbd></a> 
   <br/>
   <br/>
   
@@ -119,42 +119,6 @@
     <br/>
     Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
   </p>
-</details>
-
-<details>
-  <summary><b>📊 My Programming Stats</b></summary>
-  
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2057%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning       99 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-🌆 Daytime      432 commits       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-🌃 Evening      440 commits       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-🌙 Night        553 commits       █████████░░░░░░░░░░░░░░░░   36.29 % 
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   1 hr 35 mins        ██████████████████░░░░░░░   74.33 % 
-Other                    31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-```
-
-
- Last Updated on 13/02/2023 08:18:35 UTC
-<!--END_SECTION:waka-->
-  
 </details>
 
 <!-- OS -->
