@@ -35,7 +35,7 @@
 
 ## 🧰 Fähigkeiten
 
-### Sprachen
+### Languages
 
 <p align="left"> 
   <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -243,10 +243,6 @@
 
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
-
-[coffee-url]: https://www.buymeacoffee.com/mikyll
-
 <!-- https://paypal.me/mikyll98 -->
 
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
@@ -264,6 +260,10 @@
 [forks-shield]: https://img.shields.io/github/forks/mikyll/mikyll
 
 [forks-url]: https://github.com/mikyll/mikyll
+
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-5C5C5C?style=flat&logo=buy-me-a-coffee&logoColor=yellow
+
+[coffee-url]: https://www.buymeacoffee.com/mikyll
 
 <!-- SHIELDS ############################################################################################### -->
 
