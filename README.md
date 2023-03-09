@@ -104,22 +104,27 @@
 
 ## 💻 Projects
 
+### [Poké-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
+<a href="https://github.com/TryKatChup">TryKatChup</a> and I recreated a Pokédex clone, which recognizes pictures of Pokémon from the first generation, using a Convolutional Neural Network. It's built on Raspberry Pi4 with LCD display, PiCamera, speaker and some other components attached. The case is made of recycled cardboard. 🌱<br/>
+<p align="center">
+  <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
+  <!-- <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TryKatChup&repo=Poke-Pi-Dex"/></a> -->
+  <br/>
+  Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
+</p>
 
--------
+### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
 
-<details>
-  <summary><b>🖥️ Best Projects I've Worked On</b></summary>
-  
-  <h3><a href="https://github.com/TryKatChup/Poke-Pi-Dex">Poké-Pi-Dex</a></h3>
-  <a href="https://github.com/TryKatChup">TryKatChup</a> and I recreated a Pokédex clone, which recognizes pictures of Pokémon from the first generation, using a Convolutional Neural Network. It's built on Raspberry Pi4 with LCD display, PiCamera, speaker and some other components attached. The case is made of recycled cardboard. 🌱<br/>
-  <p align="center">
-    <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
-    <!-- <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TryKatChup&repo=Poke-Pi-Dex"/></a> -->
-    <br/>
-    Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
-  </p>
-</details>
+<a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
+
+### [Moddy](https://github.com/GIP22-Pack-a-Punch/Moddy)
+
+<a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
+
+### [WasteService](https://github.com/iss2022-BCR/WasteService)
+
+<a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
 <!-- OS -->
 [linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
@@ -179,3 +184,14 @@
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 <!-- https://paypal.me/mikyll98 -->
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
+
+<!--
+Resources:
+Terminal banner gif generator: https://www.terminalgif.com/
+github header generators: 
+- https://leviarista.github.io/github-profile-header-generator/
+- https://pjc0247.github.io/gif-for-readme/
+- https://codesandbox.io/s/github/h1n054ur/js-typing-gif
+Flags: https://flagicons.lipis.dev/
+Icons: https://github.com/devicons/devicon
+-->
