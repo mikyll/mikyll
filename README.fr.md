@@ -24,6 +24,7 @@
   [![Followers][followers-shield]][followers-url]
   [![Total Stars][totstars-shield]][totstars-url]
   [![Repo Forks][forks-shield]][forks-url]
+  [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
 ## 👋 Bonjour ! Je suis Michel 😃
@@ -242,7 +243,7 @@
 
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
 
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 
