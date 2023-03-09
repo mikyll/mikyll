@@ -33,9 +33,9 @@
 -   📚 修士課程**コンピューターエンジニア**🏫 Alma Mater Studies - ボローニャ大学の学生
 -   💡 オープンソースで🎮 ゲーム開発愛好家。
 
-## 🧰 スキル
+## 🧰スキル
 
-### 言語
+### Languages
 
 <p align="left"> 
   <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -123,7 +123,7 @@
   Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
 </p>
 
-### [ギオニーノ9000](https://github.com/Gionnino9000/Gionnino9000)
+### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
