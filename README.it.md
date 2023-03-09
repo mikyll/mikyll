@@ -19,7 +19,7 @@
   <br/>
   <br/>
   
-  <img src="https://user-images.githubusercontent.com/56556806/223774939-e2fd6b22-5ba7-4543-aee1-964821c0ddf0.gif">
+  <img src="https://github.com/mikyll/mikyll/blob/main/gfx/terminal-mikyll.gif">
   
   [![Followers][followers-shield]][followers-url]
   [![Total Stars][totstars-shield]][totstars-url]
