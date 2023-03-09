@@ -29,8 +29,8 @@
 
 ## 👋こんにちは！マイケルです😃
 
--   📍 生まれ<b>サンマリノ</b><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
--   📚 修士課程<b>コンピューターエンジニア</b>🏫 Alma Mater Studies - ボローニャ大学の学生
+-   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
+-   📚 ボローニャ大学 🏫 Alma Mater Studiorum のコンピューター工学修士課程の学生。
 -   💡 オープンソースで🎮 ゲーム開発愛好家。
 
 ## 🧰スキル
@@ -112,7 +112,7 @@
 
 <details>
 
-### [Poké-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
+### [ポケパイデックス](https://github.com/TryKatChup/Poke-Pi-Dex)
 
 <a href="https://github.com/TryKatChup">トライキャットチャップ</a>そして、畳み込みニューラル ネットワークを使用して、第 1 世代のポケモンの写真を認識するポケモン図鑑のクローンを再作成しました。 LCDディスプレイ、PiCamera、スピーカー、その他のコンポーネントが取り付けられたRaspberry Pi4上に構築されています。ケースは再生段ボールを使用。 🌱<br/>
 
