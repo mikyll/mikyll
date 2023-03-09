@@ -30,12 +30,12 @@
 ## 👋こんにちは！マイケルです😃
 
 -   📍 生まれ**サンマリノ**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
--   📚 修士課程**コンピューターエンジニア** student at 🏫 Alma Mater Studiorum - University of Bologna.
+-   📚 修士課程**コンピューターエンジニア**🏫 Alma Mater Studies - ボローニャ大学の学生
 -   💡 オープンソースで🎮 ゲーム開発愛好家。
 
-## 🧰スキル
+## 🧰 スキル
 
-### 言語
+### Languages
 
 <p align="left"> 
   <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -127,11 +127,11 @@
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
-### [Moddy](https://github.com/GIP22-Pack-a-Punch/Moddy)
+### [真ん中](https://github.com/GIP22-Pack-a-Punch/Moddy)
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
-### [廃棄物サービス](https://github.com/iss2022-BCR/WasteService)
+### [WasteService](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
@@ -187,7 +187,7 @@
 
 [c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
-[ada-shield]：
+[ADAシールド-]：
 
 [ada-url]: <!-- markdown languages -->
 
@@ -243,10 +243,6 @@
 
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
-
-[coffee-url]: https://www.buymeacoffee.com/mikyll
-
 <!-- https://paypal.me/mikyll98 -->
 
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
@@ -264,6 +260,10 @@
 [forks-shield]: https://img.shields.io/github/forks/mikyll/mikyll
 
 [forks-url]: https://github.com/mikyll/mikyll
+
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-5C5C5C?style=flat&logo=buy-me-a-coffee&logoColor=yellow
+
+[coffee-url]: https://www.buymeacoffee.com/mikyll
 
 <!-- SHIELDS ############################################################################################### -->
 
