@@ -27,11 +27,11 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 Здравствуйте! Я Майкл 😃
+## 👋 Чао! Я Майки 😃
 
 -   📍 Родился в Сан-Марино.<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, в настоящее время живет в Болонье, Италия.<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Студент магистра компьютерной инженерии в 🏫 Alma Mater Studiorum - Университет Болоньи.
--   💡 Open source and 🎮 game development enthusiast. 
+-   💡 Открытый исходный код и 🎮 энтузиаст разработки игр.
 
 ## 🧰 Навыки
 
@@ -114,7 +114,7 @@
 
 ### [Поке-Пи-Декс](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">ТриКатЧуп</a>и я воссоздал клон Pokédex, который распознает изображения покемонов первого поколения с помощью сверточной нейронной сети. Он построен на Raspberry Pi4 с ЖК-дисплеем, PiCamera, динамиком и некоторыми другими компонентами. Корпус изготовлен из переработанного картона. 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a>и я воссоздал клон Pokédex, который распознает изображения покемонов первого поколения с помощью сверточной нейронной сети. Он построен на Raspberry Pi4 с ЖК-дисплеем, PiCamera, динамиком и некоторыми другими компонентами. Корпус изготовлен из переработанного картона. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
@@ -131,7 +131,7 @@
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
-### [ОтходыСервис](https://github.com/iss2022-BCR/WasteService)
+### [WasteService](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
