@@ -33,7 +33,7 @@
 -   📚 Магистр**Компьютерная инженерия**студент 🏫 Alma Mater Studies - Болонский университет
 -   💡 Открытый исходный код и 🎮 энтузиаст разработки игр.
 
-## 🧰 Навыки
+## 🧰 Skills
 
 ### Языки
 
@@ -127,7 +127,7 @@
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
-### [середина](https://github.com/GIP22-Pack-a-Punch/Moddy)
+### [Moddy](https://github.com/GIP22-Pack-a-Punch/Moddy)
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
