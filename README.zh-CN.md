@@ -27,10 +27,10 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋再见！我是米奇😃
+## 👋 您好！我是米克尔😃
 
 -   📍 生于圣马力诺<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙，现居意大利博洛尼亚<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚 博洛尼亚大学 🏫 Alma Mater Studiorum 计算机工程理学硕士学生。
+-   📚 MSc Computer Engineering student at 🏫 Alma Mater Studiorum - University of Bologna.
 -   💡 开源和 🎮 游戏开发爱好者。
 
 ## 🧰技能
@@ -74,7 +74,7 @@
   
 </p>
 
-### Platforms
+### 平台
 
 <p align="left">
   <a title="Microsoft Windows" href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a> 
