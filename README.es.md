@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 ¡Ciao! soy mikey 😃
+## 👋 ¡Hola! Soy Mikell 😃
 
 -   📍 Nacido en San Marino<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Estudiante de Maestría en Ingeniería Informática en 🏫 Estudios Alma Mater - Universidad de Bolonia.
@@ -112,7 +112,7 @@
 
 <details>
 
-### [Poké-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
+### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
 <a href="https://github.com/TryKatChup">PruebaKatChup</a>y recreé un clon de Pokédex, que reconoce imágenes de Pokémon de la primera generación, utilizando una red neuronal convolucional. Está construido en Raspberry Pi4 con pantalla LCD, PiCamera, altavoz y algunos otros componentes adjuntos. El estuche está hecho de cartón reciclado. 🌱<br/>
 
