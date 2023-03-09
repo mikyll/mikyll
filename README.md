@@ -20,8 +20,11 @@
   <br/>
   
   <img src="https://user-images.githubusercontent.com/56556806/223774939-e2fd6b22-5ba7-4543-aee1-964821c0ddf0.gif">
+  
+  [![Followers][followers-shield]][followers-url]
+  [![Total Stars][totstars-shield]][totstars-url]
+  [![Repo Forks][forks-shield]][forks-url]
 </div>
-<!-- https://www.terminalgif.com/ -->
 
 ## 👋 Ciao! I'm Michele 😃
 
@@ -130,6 +133,7 @@
 
 </details>
 
+<!-- SHIELDS ############################################################################################### -->
 <!-- OS -->
 [linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
 [linux-url]: https://www.linux.org/
@@ -188,6 +192,16 @@
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 <!-- https://paypal.me/mikyll98 -->
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
+
+<!-- Social -->
+[followers-shield]: https://img.shields.io/github/followers/mikyll
+[followers-url]: https://github.com/mikyll
+[totstars-shield]: https://img.shields.io/github/stars/mikyll?affiliations=OWNER%2CCOLLABORATOR
+[totstars-url]: https://github.com/mikyll
+[forks-shield]: https://img.shields.io/github/forks/mikyll/mikyll
+[forks-url]: https://github.com/mikyll/mikyll
+
+<!-- SHIELDS ############################################################################################### -->
 
 <!--
 Resources:
