@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 Bonjour ! Je suis Michel 😃
+## 👋 Ciao ! Je suis Mikey 😃
 
 -   📍 Né à Saint-Marin<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, vit actuellement à Bologne, Italie<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Étudiant MSc Computer Engineering à 🏫 Alma Mater Studiorum - Université de Bologne.
