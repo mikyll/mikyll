@@ -24,13 +24,14 @@
   [![Followers][followers-shield]][followers-url]
   [![Total Stars][totstars-shield]][totstars-url]
   [![Repo Forks][forks-shield]][forks-url]
+  [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
 ## 👋 您好！我是迈克尔😃
 
 -   📍出生于**圣马力诺**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙，现居意大利博洛尼亚<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚理学硕士**计算机工程**🏫 Alma Mater Studies - 博洛尼亚大学的学生
--   💡 开源和 🎮 游戏开发爱好者。
+-   💡 Open source and 🎮 game development enthusiast. 
 
 ## 🧰技能
 
@@ -97,7 +98,7 @@
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
-## 📈 统计
+## 📈 Stats
 
 <p align="center">
   <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>-->
@@ -130,7 +131,7 @@
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
-### [废物服务](https://github.com/iss2022-BCR/WasteService)
+### [WasteService](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
@@ -242,7 +243,7 @@
 
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
 
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 
