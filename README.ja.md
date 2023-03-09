@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋チャオ！マイキーです😃
+## 👋こんにちは！ミケルです😃
 
 -   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
 -   📚 ボローニャ大学 🏫 Alma Mater Studiorum のコンピューター工学修士課程の学生。
@@ -114,7 +114,7 @@
 
 ### [ポケパイデックス](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">TryKatChup</a>そして、畳み込みニューラル ネットワークを使用して、第 1 世代のポケモンの写真を認識するポケモン図鑑のクローンを再作成しました。 LCDディスプレイ、PiCamera、スピーカー、その他のコンポーネントが取り付けられたRaspberry Pi4上に構築されています。ケースは再生段ボールを使用。 🌱<br/>
+<a href="https://github.com/TryKatChup">トライキャットチャップ</a>そして、畳み込みニューラル ネットワークを使用して、第 1 世代のポケモンの写真を認識するポケモン図鑑のクローンを再作成しました。 LCDディスプレイ、PiCamera、スピーカー、その他のコンポーネントが取り付けられたRaspberry Pi4上に構築されています。ケースは再生段ボールを使用。 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
