@@ -31,7 +31,7 @@
 
 -   📍出生于**圣马力诺**<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙，现居意大利博洛尼亚<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚理学硕士**计算机工程**🏫 Alma Mater Studies - 博洛尼亚大学的学生
--   💡 Open source and 🎮 game development enthusiast. 
+-   💡 开源和 🎮 游戏开发爱好者。
 
 ## 🧰技能
 
@@ -98,7 +98,7 @@
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
-## 📈 Stats
+## 📈 统计
 
 <p align="center">
   <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>-->
@@ -114,7 +114,7 @@
 
 ### [精灵宝可梦](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">试试吉薯片</a>我重新创建了一个 Pokédex 克隆，它使用卷积神经网络识别第一代 Pokémon 的图片。它基于 Raspberry Pi4 构建，并附有 LCD 显示屏、PiCamera、扬声器和一些其他组件。外壳由回收纸板制成。 🌱<br/>
+<a href="https://github.com/TryKatChup">尝尝KatChup</a>我重新创建了一个 Pokédex 克隆，它使用卷积神经网络识别第一代 Pokémon 的图片。它基于 Raspberry Pi4 构建，并附有 LCD 显示屏、PiCamera、扬声器和一些其他组件。外壳由回收纸板制成。 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
@@ -131,7 +131,7 @@
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
-### [WasteService](https://github.com/iss2022-BCR/WasteService)
+### [废物服务](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
@@ -243,10 +243,6 @@
 
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
-
-[coffee-url]: https://www.buymeacoffee.com/mikyll
-
 <!-- https://paypal.me/mikyll98 -->
 
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
@@ -264,6 +260,10 @@
 [forks-shield]: https://img.shields.io/github/forks/mikyll/mikyll
 
 [forks-url]: https://github.com/mikyll/mikyll
+
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-5C5C5C?style=flat&logo=buy-me-a-coffee&logoColor=yellow
+
+[coffee-url]: https://www.buymeacoffee.com/mikyll
 
 <!-- SHIELDS ############################################################################################### -->
 
