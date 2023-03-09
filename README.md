@@ -1,6 +1,22 @@
 <div align="center">
-  <a title="English" href=""><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></a>
-  <a title="Italian" href=""><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></a>
+  Language:
+  &nbsp;
+  [ <a title="English" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> ]
+  &nbsp;
+  <a title="Italian" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
+  &nbsp;
+  <a title="French" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/fr.svg"></kbd></a> 
+  &nbsp;
+  <a title="Spanish" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/es.svg"></kbd></a> 
+  &nbsp;
+  <a title="German" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/de.svg"></kbd></a> 
+  &nbsp;
+  <a title="Japanese" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/jp.svg"></kbd></a> 
+  &nbsp;
+  <a title="Chinese" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/cn.svg"></kbd></a> 
+  &nbsp;
+  <a title="Russian" href=""><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/ru.svg"></kbd></a> 
+  <br/>
   <br/>
   
   <img src="https://user-images.githubusercontent.com/56556806/223774939-e2fd6b22-5ba7-4543-aee1-964821c0ddf0.gif">
@@ -9,7 +25,7 @@
 
 ## 👋 Ciao! I'm Mikyll 😃
 
-- 📍 Born in **San Marino** <img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg">🤍💙, currently living in Bologna, Italy <img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg">.
+- 📍 Born in **San Marino** <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, currently living in Bologna, Italy <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 - 📚 MSc **Computer Engineering** student at 🏫 Alma Mater Studiorum - University of Bologna.
 - 💡 Open source and 🎮 game development enthusiast. 
 
@@ -46,6 +62,7 @@
   <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> 
   <a title="Figma" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a> 
   <a title="Microsoft Azure" href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a> 
+  
 </p>
 
 ### Platforms
@@ -58,16 +75,24 @@
   <a title="Arduino" href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> 
   
 </p>
-<!-- windows (https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg), linux -->
+
+## 🔗 Links
+
+<p align="left">
+  <a title="Website" href=""><img width="40" src="https://img.icons8.com/color/96/000000/domain.svg"></a> 
+  <a title="Gmail" href="mailto:righi.michele98@gmail.com"><img width="40" src="https://img.icons8.com/color/96/000000/gmail.svg"></a> 
+  <a title="GitHub" href="https://github.com/mikyll"><img width="40" src="https://img.icons8.com/color/96/000000/github.svg"></a> 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/michele-righi/"><img width="40" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
+  <a title="StackOverflow" href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"></a>
+  <a title="Leetcode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
+</p>
 
 ## 📈 Stats
+
 <p align="center">
   <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/></a>
   <a href="https://github.com/mikyll/mikyll"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8" width=40%/></a>
 </p>
-
-## ✉️ Contact Me
-
 
 -------
 
