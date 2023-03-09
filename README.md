@@ -24,6 +24,7 @@
   [![Followers][followers-shield]][followers-url]
   [![Total Stars][totstars-shield]][totstars-url]
   [![Repo Forks][forks-shield]][forks-url]
+  [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
 ## 👋 Ciao! I'm Michele 😃
@@ -190,7 +191,7 @@
 [raspberry-shield]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi
 [raspberry-url]: https://www.raspberrypi.org/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
+[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat&logo=buy-me-a-coffee&logoColor=black
 [coffee-url]: https://www.buymeacoffee.com/mikyll
 <!-- https://paypal.me/mikyll98 -->
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
