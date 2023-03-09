@@ -104,6 +104,8 @@
 
 ## 💻 Progetti
 
+<details>
+
 ### [Poké-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
 <a href="https://github.com/TryKatChup">TryKatChup</a> and I recreated a Pokédex clone, which recognizes pictures of Pokémon from the first generation, using a Convolutional Neural Network. It's built on Raspberry Pi4 with LCD display, PiCamera, speaker and some other components attached. The case is made of recycled cardboard. 🌱<br/>
@@ -125,6 +127,8 @@
 ### [WasteService](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
+
+</details>
 
 <!-- OS -->
 [linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
