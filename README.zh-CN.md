@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 您好！我是米克尔😃
+## 👋 您好！我是<name>米基尔</name>😃
 
 -   📍 生于圣马力诺<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙，现居意大利博洛尼亚<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 博洛尼亚大学 🏫 Alma Mater Studiorum 计算机工程理学硕士学生。
@@ -111,9 +111,9 @@
 
 <details>
 
-### [精灵宝可梦](https://github.com/TryKatChup/Poke-Pi-Dex)
+### [Poké-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">TryKatChup</a>我重新创建了一个 Pokédex 克隆，它使用卷积神经网络识别第一代 Pokémon 的图片。它基于 Raspberry Pi4 构建，并附有 LCD 显示屏、PiCamera、扬声器和一些其他组件。外壳由回收纸板制成。 🌱<br/>
+<a href="https://github.com/TryKatChup">试试吉薯片</a>我重新创建了一个 Pokédex 克隆，它使用卷积神经网络识别第一代 Pokémon 的图片。它基于 Raspberry Pi4 构建，并附有 LCD 显示屏、PiCamera、扬声器和一些其他组件。外壳由回收纸板制成。 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
@@ -122,11 +122,11 @@
   Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
 </p>
 
-### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
+### [乔尼诺9000](https://github.com/Gionnino9000/Gionnino9000)
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
-### [Moddy](https://github.com/GIP22-Pack-a-Punch/Moddy)
+### [中间](https://github.com/GIP22-Pack-a-Punch/Moddy)
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
