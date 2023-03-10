@@ -113,13 +113,13 @@
 
 ### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">TryKatChup</a>und ich habe mithilfe eines Convolutional Neural Network einen Pokédex-Klon nachgebaut, der Bilder von Pokémon der ersten Generation erkennt. Es basiert auf Raspberry Pi4 mit LCD-Display, PiCamera, Lautsprecher und einigen anderen Komponenten. Die Hülle besteht aus recyceltem Karton. 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a> und ich habe mithilfe eines Convolutional Neural Network einen Pokédex-Klon nachgebaut, der Bilder von Pokémon der ersten Generation erkennt. Es basiert auf Raspberry Pi4 mit LCD-Display, PiCamera, Lautsprecher und einigen anderen Komponenten. Die Hülle besteht aus recyceltem Karton. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
   <!-- <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TryKatChup&repo=Poke-Pi-Dex"/></a> -->
   <br/>
-  Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
+  Sehen Sie sich die <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">Demo</a> auf YouTube an!
 </p>
 
 ### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
