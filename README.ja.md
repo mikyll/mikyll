@@ -98,7 +98,7 @@
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
-## 📈統計
+## 📈 Stats
 
 <p align="center">
   <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>-->
