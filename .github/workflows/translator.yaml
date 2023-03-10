@@ -59,21 +59,19 @@ jobs:
           for file in $(ls | egrep -i "README*")
           do
             echo "Updating File: $file"
+            before=$(cat $file | grep -o "<$tag>.*<\/$tag>")
+            echo "BEFORE: $before"
+            
             sed -i "s|<$tag>.*<\/$tag>|<$tag>$name<\/$tag>|g" $file
+            after=$(cat $file | grep -o "<$tag>.*<\/$tag>")
+            echo "AFTER: $after"
             
             git add "$file"
             
           done
       - name: Commit and Push README changes
         run: |
-          # Check if there are changes
-          if [[ -n $(git status -s) ]]
-          then
-            git config --global user.name "mikyll"
+          git config --global user.name "mikyll"
           
-            git commit -m "Update READMEs"
-            git push
-            echo "✔️ OK: READMEs correctly updated"
-          else
-            echo "❌ ERROR: READMEs not updated"
-          fi
+          git commit -m "Update READMEs"
+          git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
