@@ -187,7 +187,7 @@
 
 [c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
-[ада-щит]&#x3A;
+[ada-shield]&#x3A;
 
 [ada-url]: <!-- markdown languages -->
 
