@@ -29,7 +29,7 @@
 
 ## 👋こんにちは！ミケルです😃
 
--   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
+-   📍 Born in San Marino <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
 -   📚 ボローニャ大学 🏫 Alma Mater Studiorum のコンピューター工学修士課程の学生。
 -   💡 オープンソースで🎮 ゲーム開発愛好家。
 
@@ -98,7 +98,7 @@
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
-## 📈 Stats
+## 📈統計
 
 <p align="center">
   <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>-->
@@ -131,7 +131,7 @@
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
-### [廃棄物サービス](https://github.com/iss2022-BCR/WasteService)
+### [WasteService](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
