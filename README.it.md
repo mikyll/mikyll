@@ -28,7 +28,7 @@
 </div>
 <!-- https://www.terminalgif.com/ -->
 
-## 👋 Ciao! Sono <name>Miky</name> 😃
+## 👋 Ciao! Sono Michele 😃
 
 - 📍 Nato a San Marino <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, attualmente vivo a Bologna, in Italia <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 - 📚 Studente di Ingegneria Informatica presso 🏫 Alma Mater Studiorum - Università di Bologna.
