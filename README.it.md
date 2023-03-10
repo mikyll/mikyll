@@ -95,7 +95,6 @@
   <a title="Facebook" href="https://www.facebook.com/miky.righi/"><img width="40" src="https://img.icons8.com/color/96/000000/facebook-new.svg"></a> 
   <a title="GitHub" href="https://github.com/mikyll"><img width="40" src="https://img.icons8.com/color/96/000000/github.svg"></a> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/michele-righi/"><img width="40" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
-  <a title="StackOverflow" href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"></a>
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
