@@ -1,0 +1,78 @@
+name: Translate README
+
+on:
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  translate_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      # ISO Language Codes: https://cloud.google.com/translate/docs/languages
+      - name: Adding README - French
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: fr
+      - name: Adding README - Spanish
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: es
+      - name: Adding README - German
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: de
+      - name: Adding README - Japanese
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ja
+      - name: Adding README - Chinese Simplified
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-CN
+      - name: Adding README - Russian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ru
+          
+  # TO-DO: fix
+  update_name:
+    needs: translate_readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - run: cd ${{ github.workspace }}
+      - name: Finishing touches
+        run: |
+          # What to replace what's between the tag with
+          name="Michele"
+          tag="name"
+          
+          # Loop over README files
+          for file in $(ls | egrep -i "README*")
+          do
+            echo "Updating File: $file"
+            before=$(cat $file | grep -o "<$tag>.*<\/$tag>")
+            echo "BEFORE: $before"
+            
+            sed -i "s|<$tag>.*<\/$tag>|<$tag>$name<\/$tag>|g" $file
+            after=$(cat $file | grep -o "<$tag>.*<\/$tag>")
+            echo "AFTER: $after"
+            
+            git add "$file"
+            
+          done
+      - name: Commit and Push README changes
+        run: |
+          git config --global user.name "mikyll"
+          
+          git commit -m "Update READMEs"
+          git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
