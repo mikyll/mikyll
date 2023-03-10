@@ -27,9 +27,9 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋こんにちは！ミケルです😃
+## 👋こんにちは！わたしは<name>ミキル</name>😃
 
--   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, currently living in Bologna, Italy <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
+-   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
 -   📚 MSc Computer Engineering student at 🏫 Alma Mater Studiorum - University of Bologna.
 -   💡 オープンソースで🎮 ゲーム開発愛好家。
 
@@ -122,11 +122,11 @@
   Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
 </p>
 
-### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
+### [ギオニーノ9000](https://github.com/Gionnino9000/Gionnino9000)
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
-### [Moddy](https://github.com/GIP22-Pack-a-Punch/Moddy)
+### [真ん中](https://github.com/GIP22-Pack-a-Punch/Moddy)
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
