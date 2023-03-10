@@ -35,7 +35,7 @@
 
 ## 🧰 Habilidades
 
-### Idiomas
+### Languages
 
 <p align="left"> 
   <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
@@ -114,7 +114,7 @@
 
 ### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">PruebaKatChup</a>y recreé un clon de Pokédex, que reconoce imágenes de Pokémon de la primera generación, utilizando una red neuronal convolucional. Está construido en Raspberry Pi4 con pantalla LCD, PiCamera, altavoz y algunos otros componentes adjuntos. El estuche está hecho de cartón reciclado. 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a>y recreé un clon de Pokédex, que reconoce imágenes de Pokémon de la primera generación, utilizando una red neuronal convolucional. Está construido en Raspberry Pi4 con pantalla LCD, PiCamera, altavoz y algunos otros componentes adjuntos. El estuche está hecho de cartón reciclado. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
