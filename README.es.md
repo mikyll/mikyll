@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 ¡Hola! Soy Mikell 😃
+## 👋 ¡Hola! Soy<name>Mikyll</name>😃
 
 -   📍 Nacido en San Marino<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Estudiante de Maestría en Ingeniería Informática en 🏫 Estudios Alma Mater - Universidad de Bolonia.
@@ -113,7 +113,7 @@
 
 ### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">TryKatChup</a>y recreé un clon de Pokédex, que reconoce imágenes de Pokémon de la primera generación, utilizando una red neuronal convolucional. Está construido en Raspberry Pi4 con pantalla LCD, PiCamera, altavoz y algunos otros componentes adjuntos. El estuche está hecho de cartón reciclado. 🌱<br/>
+<a href="https://github.com/TryKatChup">PruebaKatChup</a>y recreé un clon de Pokédex, que reconoce imágenes de Pokémon de la primera generación, utilizando una red neuronal convolucional. Está construido en Raspberry Pi4 con pantalla LCD, PiCamera, altavoz y algunos otros componentes adjuntos. El estuche está hecho de cartón reciclado. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
@@ -186,7 +186,7 @@
 
 [c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
-[ada-escudo]&#x3A;
+[ada-shield]&#x3A;
 
 [ada-url]: <!-- markdown languages -->
 
