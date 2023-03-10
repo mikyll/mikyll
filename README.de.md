@@ -94,7 +94,6 @@
   <a title="Facebook" href="https://www.facebook.com/miky.righi/"><img width="40" src="https://img.icons8.com/color/96/000000/facebook-new.svg"></a> 
   <a title="GitHub" href="https://github.com/mikyll"><img width="40" src="https://img.icons8.com/color/96/000000/github.svg"></a> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/michele-righi/"><img width="40" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
-  <a title="StackOverflow" href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"></a>
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
@@ -114,7 +113,7 @@
 
 ### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">TryKatChup</a>und ich habe mithilfe eines Convolutional Neural Network einen Pokédex-Klon nachgebaut, der Bilder von Pokémon der ersten Generation erkennt. Es basiert auf Raspberry Pi4 mit LCD-Display, PiCamera, Lautsprecher und einigen anderen Komponenten. Der Koffer besteht aus recyceltem Karton. 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a>und ich habe mithilfe eines Convolutional Neural Network einen Pokédex-Klon nachgebaut, der Bilder von Pokémon der ersten Generation erkennt. Es basiert auf Raspberry Pi4 mit LCD-Display, PiCamera, Lautsprecher und einigen anderen Komponenten. Die Hülle besteht aus recyceltem Karton. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
@@ -187,7 +186,7 @@
 
 [c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
-[ada-shield]&#x3A;
+[ada-Schild]&#x3A;
 
 [ada-url]: <!-- markdown languages -->
 
