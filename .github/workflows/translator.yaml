@@ -6,7 +6,7 @@ on:
       - main
       - master
 jobs:
-  build:
+  translate_readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -39,3 +39,32 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: ru
+  update_name:
+    needs: translate_readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Finishing touches
+        run: |
+          # What to replace what's between the tag with
+          name="Michele"
+          tag="name"
+          
+          # Loop over README files
+          for file in $(ls | egrep -i "README*")
+          do
+            echo "Updating File: $file"
+            sed -i "s|<$tag>.*<\/$tag>|<$tag>$name<\/$tag>|g" $file
+            
+            git add "$file"
+            
+          done
+      - name: Commit and Push README changes
+        run: |
+          git config --global user.name "mikyll"
+          
+          git commit -m "Update READMEs"
+          git push
