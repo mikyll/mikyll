@@ -1,5 +1,5 @@
 <div align="center">
-  Language:
+  Idioma:
   &nbsp;
   <a title="English" href="./README.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> 
   &nbsp;
