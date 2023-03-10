@@ -29,7 +29,7 @@
 
 ## 👋こんにちは！ミケルです😃
 
--   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
+-   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, currently living in Bologna, Italy <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
 -   📚 ボローニャ大学 🏫 Alma Mater Studiorum のコンピューター工学修士課程の学生。
 -   💡 オープンソースで🎮 ゲーム開発愛好家。
 
@@ -85,7 +85,7 @@
   
 </p>
 
-## 🔗 Links
+## 🔗 リンク
 
 <p align="left">
   <a title="Website" href=""><img width="40" src="https://img.icons8.com/color/96/000000/domain.svg"></a> 
@@ -112,7 +112,7 @@
 
 <details>
 
-### [ポケパイデックス](https://github.com/TryKatChup/Poke-Pi-Dex)
+### [Poké-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
 <a href="https://github.com/TryKatChup">トライキャットチャップ</a>そして、畳み込みニューラル ネットワークを使用して、第 1 世代のポケモンの写真を認識するポケモン図鑑のクローンを再作成しました。 LCDディスプレイ、PiCamera、スピーカー、その他のコンポーネントが取り付けられたRaspberry Pi4上に構築されています。ケースは再生段ボールを使用。 🌱<br/>
 
@@ -123,7 +123,7 @@
   Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
 </p>
 
-### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
+### [ギオニーノ9000](https://github.com/Gionnino9000/Gionnino9000)
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
