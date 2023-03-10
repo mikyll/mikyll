@@ -39,6 +39,7 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: ru
+          
   update_name:
     needs: translate_readme
     runs-on: ubuntu-latest
@@ -47,6 +48,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
+          run: cd ${{ github.workspace }}
       - name: Finishing touches
         run: |
           # What to replace what's between the tag with
@@ -64,7 +66,14 @@ jobs:
           done
       - name: Commit and Push README changes
         run: |
-          git config --global user.name "mikyll"
+          # Check if there are changes
+          if [[ -n $(git status -s) ]]
+          then
+            git config --global user.name "mikyll"
           
-          git commit -m "Update READMEs"
-          git push
+            git commit -m "Update READMEs"
+            git push
+            echo "✔️ OK: READMEs correctly updated"
+          else
+            echo "❌ ERROR: READMEs not updated"
+          fi
