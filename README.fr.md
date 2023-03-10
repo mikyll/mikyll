@@ -29,7 +29,7 @@
 
 ## 👋 Bonjour ! Je suis Mikel 😃
 
--   📍 Né à Saint-Marin<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, currently living in Bologna, Italy <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📍 Né à Saint-Marin<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, vit actuellement à Bologne, Italie<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Étudiant MSc Computer Engineering à 🏫 Alma Mater Studiorum - Université de Bologne.
 -   💡 Passionné de développement de jeux open source et 🎮.
 
@@ -55,7 +55,7 @@
   
 </p>
 
-### Tools and Frameworks
+### Outils et cadres
 
 <p align="left"> 
   <a title="Unity" href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/></a> 
