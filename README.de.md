@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 Hallo! Ich bin Mikell 😃
+## 👋 Hallo! Ich bin<name>Mikel</name>😃
 
 -   📍 Geboren in San Marino<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, lebe derzeit in Bologna, Italien<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 MSc Computer Engineering Student an 🏫 Alma Mater Studiorum - Universität Bologna.
