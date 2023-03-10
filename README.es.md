@@ -31,7 +31,7 @@
 
 -   📍 Nacido en San Marino<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Estudiante de Maestría en Ingeniería Informática en 🏫 Estudios Alma Mater - Universidad de Bolonia.
--   💡 Entusiasta del desarrollo de juegos y código abierto.
+-   💡 Código abierto y 🎮 entusiasta del desarrollo de juegos.
 
 ## 🧰 Habilidades
 
@@ -94,7 +94,6 @@
   <a title="Facebook" href="https://www.facebook.com/miky.righi/"><img width="40" src="https://img.icons8.com/color/96/000000/facebook-new.svg"></a> 
   <a title="GitHub" href="https://github.com/mikyll"><img width="40" src="https://img.icons8.com/color/96/000000/github.svg"></a> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/michele-righi/"><img width="40" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
-  <a title="StackOverflow" href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"></a>
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
@@ -114,7 +113,7 @@
 
 ### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">PruebaKatChup</a>y recreé un clon de Pokédex, que reconoce imágenes de Pokémon de la primera generación, utilizando una red neuronal convolucional. Está construido en Raspberry Pi4 con pantalla LCD, PiCamera, altavoz y algunos otros componentes adjuntos. El estuche está hecho de cartón reciclado. 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a>y recreé un clon de Pokédex, que reconoce imágenes de Pokémon de la primera generación, utilizando una red neuronal convolucional. Está construido en Raspberry Pi4 con pantalla LCD, PiCamera, altavoz y algunos otros componentes adjuntos. El estuche está hecho de cartón reciclado. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
