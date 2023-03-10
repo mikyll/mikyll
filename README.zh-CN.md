@@ -94,7 +94,6 @@
   <a title="Facebook" href="https://www.facebook.com/miky.righi/"><img width="40" src="https://img.icons8.com/color/96/000000/facebook-new.svg"></a> 
   <a title="GitHub" href="https://github.com/mikyll"><img width="40" src="https://img.icons8.com/color/96/000000/github.svg"></a> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/michele-righi/"><img width="40" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
-  <a title="StackOverflow" href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"></a>
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
@@ -114,7 +113,7 @@
 
 ### [精灵宝可梦](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">试试吉薯片</a>我重新创建了一个 Pokédex 克隆，它使用卷积神经网络识别第一代 Pokémon 的图片。它基于 Raspberry Pi4 构建，并附有 LCD 显示屏、PiCamera、扬声器和一些其他组件。外壳由回收纸板制成。 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a>我重新创建了一个 Pokédex 克隆，它使用卷积神经网络识别第一代 Pokémon 的图片。它基于 Raspberry Pi4 构建，并附有 LCD 显示屏、PiCamera、扬声器和一些其他组件。外壳由回收纸板制成。 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
@@ -123,11 +122,11 @@
   Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
 </p>
 
-### [乔尼诺9000](https://github.com/Gionnino9000/Gionnino9000)
+### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
-### [中间](https://github.com/GIP22-Pack-a-Punch/Moddy)
+### [Moddy](https://github.com/GIP22-Pack-a-Punch/Moddy)
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
