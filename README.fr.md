@@ -113,13 +113,13 @@
 
 ### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">EssayezKatChup</a>et j'ai recréé un clone Pokédex, qui reconnaît les images de Pokémon de la première génération, en utilisant un réseau de neurones convolutifs. Il est construit sur Raspberry Pi4 avec écran LCD, PiCamera, haut-parleur et quelques autres composants attachés. La mallette est en carton recyclé. 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a> et j'ai recréé un clone Pokédex, qui reconnaît les images de Pokémon de la première génération, en utilisant un réseau de neurones convolutifs. Il est construit sur Raspberry Pi4 avec écran LCD, PiCamera, haut-parleur et quelques autres composants attachés. La mallette est en carton recyclé. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
   <!-- <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=TryKatChup&repo=Poke-Pi-Dex"/></a> -->
   <br/>
-  Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
+  Regardez la <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">démo</a> sur YouTube!
 </p>
 
 ### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
