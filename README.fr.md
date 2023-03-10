@@ -29,7 +29,7 @@
 
 ## 👋 Bonjour ! Je suis Michele 😃
 
--   📍 Né à Saint-Marin<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, vit actuellement à Bologne, Italie<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📍 Né à Saint-Marin <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, vit actuellement à Bologne, Italie <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Étudiant MSc Computer Engineering à 🏫 Alma Mater Studiorum - Université de Bologne.
 -   💡 Passionné de développement de jeux open source et 🎮.
 
