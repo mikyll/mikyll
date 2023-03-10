@@ -30,7 +30,7 @@
 ## 👋 您好！我是米克尔😃
 
 -   📍 生于圣马力诺<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙，现居意大利博洛尼亚<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚 MSc Computer Engineering student at 🏫 Alma Mater Studiorum - University of Bologna.
+-   📚 博洛尼亚大学 🏫 Alma Mater Studiorum 计算机工程理学硕士学生。
 -   💡 开源和 🎮 游戏开发爱好者。
 
 ## 🧰技能
@@ -127,7 +127,7 @@
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
-### [中间](https://github.com/GIP22-Pack-a-Punch/Moddy)
+### [Moddy](https://github.com/GIP22-Pack-a-Punch/Moddy)
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
