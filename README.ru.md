@@ -27,13 +27,13 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 Здравствуйте! Я Микелл 😃
+## 👋 Здравствуйте! Я<name>Микилл</name>😃
 
 -   📍 Родился в Сан-Марино.<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, в настоящее время живет в Болонье, Италия.<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Студент магистра компьютерной инженерии в 🏫 Alma Mater Studiorum - Университет Болоньи.
 -   💡 Открытый исходный код и 🎮 энтузиаст разработки игр.
 
-## 🧰 Навыки
+## 🧰 Skills
 
 ### Языки
 
@@ -97,7 +97,7 @@
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
-## 📈 Stats
+## 📈 Статистика
 
 <p align="center">
   <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>-->
@@ -113,7 +113,7 @@
 
 ### [Поке-Пи-Декс](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">ТриКатЧуп</a> and I recreated a Pokédex clone, which recognizes pictures of Pokémon from the first generation, using a Convolutional Neural Network. It's built on Raspberry Pi4 with LCD display, PiCamera, speaker and some other components attached. The case is made of recycled cardboard. 🌱<br/>
+<a href="https://github.com/TryKatChup">ТриКатЧуп</a>и я воссоздал клон Pokédex, который распознает изображения покемонов первого поколения с помощью сверточной нейронной сети. Он построен на Raspberry Pi4 с ЖК-дисплеем, PiCamera, динамиком и некоторыми другими компонентами. Корпус изготовлен из переработанного картона. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
