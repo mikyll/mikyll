@@ -113,7 +113,7 @@
 
 ### [Poké-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">试试吉薯片</a>我重新创建了一个 Pokédex 克隆，它使用卷积神经网络识别第一代 Pokémon 的图片。它基于 Raspberry Pi4 构建，并附有 LCD 显示屏、PiCamera、扬声器和一些其他组件。外壳由回收纸板制成。🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a> 我重新创建了一个 Pokédex 克隆，它使用卷积神经网络识别第一代 Pokémon 的图片。它基于 Raspberry Pi4 构建，并附有 LCD 显示屏、PiCamera、扬声器和一些其他组件。外壳由回收纸板制成。🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
