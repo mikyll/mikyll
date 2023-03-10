@@ -1,13 +1,13 @@
 <div align="center">
   Language:
   &nbsp;
-  [ <a title="English" href="./README.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> ]
+  <a title="English" href="./README.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/gb.svg"></kbd></a> 
   &nbsp;
   <a title="Italian" href="./README.it.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a> 
   &nbsp;
   <a title="French" href="./README.fr.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/fr.svg"></kbd></a> 
   &nbsp;
-  <a title="Spanish" href="./README.es.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/es.svg"></kbd></a> 
+  [ <a title="Spanish" href="./README.es.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/es.svg"></kbd></a> ]
   &nbsp;
   <a title="German" href="./README.de.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/de.svg"></kbd></a> 
   &nbsp;
@@ -27,9 +27,9 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 ¡Hola! Soy<name>Mikyll</name>😃
+## 👋 ¡Hola! Soy Michele 😃
 
--   📍 Nacido en San Marino<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📍 Nacido en San Marino <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Estudiante de Maestría en Ingeniería Informática en 🏫 Estudios Alma Mater - Universidad de Bolonia.
 -   💡 Código abierto y 🎮 entusiasta del desarrollo de juegos.
 
@@ -136,117 +136,8 @@
 
 </details>
 
-<!-- SHIELDS ############################################################################################### -->
 
-<!-- OS -->
-
-[linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
-
-[linux-url]: https://www.linux.org/
-
-[debian-shield]: https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white
-
-[debian-url]: https://www.debian.org/
-
-[android-shield]: https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white
-
-[android-url]: https://www.android.com/
-
-[windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white
-
-[windows-url]: https://www.youtube.com/watch?v=zjedLeVGcfE&t=11s
-
-<!-- programming languages -->
-
-[java-shield]: https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white
-
-[java-url]: https://www.java.com
-
-[c-shield]: https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white
-
-[c-url]: http://www.open-std.org/jtc1/sc22/wg14/
-
-[bash-shield]: https://img.shields.io/badge/Bash_Script-353535?style=flat-square&logo=gnu-bash&logoColor=white
-
-[bash-url]: https://www.gnu.org/software/bash/
-
-[javascript-shield]: https://img.shields.io/badge/JavaScript-FFDD00?style=flat-square&logo=javascript&logoColor=black
-
-[javascript-url]: https://www.javascript.com/
-
-[python-shield]: https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54
-
-[python-url]: https://www.python.org/
-
-[go-shield]: https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white
-
-[go-url]: https://go.dev/
-
-[c#-shield]: https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white
-
-[c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
-
-[ada-shield]&#x3A;
-
-[ada-url]: <!-- markdown languages -->
-
-[html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
-
-[html-url]: https://www.html.it/
-
-[latex-shield]: https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white
-
-[latex-url]: https://www.latex-project.org/
-
-[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
-
-[css-url]: https://www.w3schools.com/css/
-
-[md-shield]: https://img.shields.io/badge/Markdown-575757.svg?style=flat-square&logo=markdown&logoColor=white
-
-[md-url]: https://www.markdownguide.org/
-
-<!-- Engine & IDE -->
-
-[unity-shield]: https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white
-
-[unity-url]: https://unity.com/
-
-[eclipse-shield]: https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse-ide&logoColor=white
-
-[eclipse-url]: https://www.eclipse.org/
-
-[vs-shield]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white
-
-[vs-url]: https://visualstudio.microsoft.com/
-
-[sublime-shield]: https://img.shields.io/badge/Sublime_Text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important
-
-[sublime-url]: https://www.sublimetext.com/
-
-<!-- Frameworks & Libraries -->
-
-[flutter-shield]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white
-
-[flutter-url]: https://flutter.dev/
-
-<!-- Social Networks -->
-
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
-
-[linkedin-url]: https://www.linkedin.com/in/michele-righi/?locale=en_US
-
-<!-- Others -->
-
-[raspberry-shield]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi
-
-[raspberry-url]: https://www.raspberrypi.org/
-
-<!-- https://paypal.me/mikyll98 -->
-
-<!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
-
-<!-- Social -->
+<!-- Shields -->
 
 [followers-shield]: https://img.shields.io/github/followers/mikyll
 
@@ -263,8 +154,6 @@
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-5C5C5C?style=flat&logo=buy-me-a-coffee&logoColor=yellow
 
 [coffee-url]: https://www.buymeacoffee.com/mikyll
-
-<!-- SHIELDS ############################################################################################### -->
 
 <!--
 Resources:
