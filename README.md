@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 Ciao! I'm Mikyll 😃
+## 👋 Ciao! I'm <name>Mikyll</name> 😃
 
 - 📍 Born in San Marino <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, currently living in Bologna, Italy <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 - 📚 MSc Computer Engineering student at 🏫 Alma Mater Studiorum - University of Bologna.
