@@ -27,7 +27,7 @@
   [![Buy me a Coffee][coffee-shield]][coffee-url]
 </div>
 
-## 👋 Bonjour ! Je suis Mikel 😃
+## 👋 Ciao! I'm Mikyll 😃
 
 -   📍 Né à Saint-Marin<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, vit actuellement à Bologne, Italie<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 Étudiant MSc Computer Engineering à 🏫 Alma Mater Studiorum - Université de Bologne.
@@ -74,7 +74,7 @@
   
 </p>
 
-### Plateformes
+### Platforms
 
 <p align="left">
   <a title="Microsoft Windows" href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a> 
@@ -94,7 +94,6 @@
   <a title="Facebook" href="https://www.facebook.com/miky.righi/"><img width="40" src="https://img.icons8.com/color/96/000000/facebook-new.svg"></a> 
   <a title="GitHub" href="https://github.com/mikyll"><img width="40" src="https://img.icons8.com/color/96/000000/github.svg"></a> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/michele-righi/"><img width="40" src="https://img.icons8.com/color/96/000000/linkedin.svg"></a> 
-  <a title="StackOverflow" href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"></a>
   <a title="LeetCode" href="https://leetcode.com/Mikyll/"><img width="35" src="https://github.com/mikyll/mikyll/blob/main/gfx/leetcode.svg"></a>  
 </p>
 
