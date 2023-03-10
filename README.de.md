@@ -29,7 +29,7 @@
 
 ## 👋 Hallo! Ich bin Mikell 😃
 
--   📍 Born in San Marino <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, lebe derzeit in Bologna, Italien<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📍 Geboren in San Marino<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, lebe derzeit in Bologna, Italien<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
 -   📚 MSc Computer Engineering Student an 🏫 Alma Mater Studiorum - Universität Bologna.
 -   💡 Enthusiast für Open Source und 🎮 Spieleentwicklung.
 
@@ -114,7 +114,7 @@
 
 ### [Poke-Pi-Dex](https://github.com/TryKatChup/Poke-Pi-Dex)
 
-<a href="https://github.com/TryKatChup">TryKatChup</a>und ich habe mithilfe eines Convolutional Neural Network einen Pokédex-Klon nachgebaut, der Bilder von Pokémon der ersten Generation erkennt. Es basiert auf Raspberry Pi4 mit LCD-Display, PiCamera, Lautsprecher und einigen anderen Komponenten. Die Hülle besteht aus recyceltem Karton. 🌱<br/>
+<a href="https://github.com/TryKatChup">TryKatChup</a>und ich habe mithilfe eines Convolutional Neural Network einen Pokédex-Klon nachgebaut, der Bilder von Pokémon der ersten Generation erkennt. Es basiert auf Raspberry Pi4 mit LCD-Display, PiCamera, Lautsprecher und einigen anderen Komponenten. Der Koffer besteht aus recyceltem Karton. 🌱<br/>
 
 <p align="center">
   <a href="https://github.com/TryKatChup/Poke-Pi-Dex"><img alt="Poké-Pi-Dex" src="https://github.com/mikyll/mikyll/blob/main/gfx/Poké-Pi-Dex.png" width=50%/></a>
