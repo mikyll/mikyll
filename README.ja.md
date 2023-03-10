@@ -29,7 +29,7 @@
 
 ## 👋こんにちは！ミケルです😃
 
--   📍 Born in San Marino <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
+-   📍 サンマリノ生まれ<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙、現在イタリアのボローニャに住んでいます<kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>。
 -   📚 ボローニャ大学 🏫 Alma Mater Studiorum のコンピューター工学修士課程の学生。
 -   💡 オープンソースで🎮 ゲーム開発愛好家。
 
@@ -85,7 +85,7 @@
   
 </p>
 
-## 🔗 リンク
+## 🔗 Links
 
 <p align="left">
   <a title="Website" href=""><img width="40" src="https://img.icons8.com/color/96/000000/domain.svg"></a> 
@@ -123,7 +123,7 @@
   Watch the <a href="https://www.youtube.com/watch?v=IkbLYq1PmRs">demo</a> on YouTube!
 </p>
 
-### [ギオニーノ9000](https://github.com/Gionnino9000/Gionnino9000)
+### [Gionnino9000](https://github.com/Gionnino9000/Gionnino9000)
 
 <a href="https://github.com/Gionnino9000/Gionnino9000"><img alt="Gionnino9000 Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=Gionnino9000&repo=Gionnino9000"></a>
 
@@ -131,7 +131,7 @@
 
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy"><img alt="Moddy Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=GIP22-Pack-a-Punch&repo=Moddy"></a>
 
-### [WasteService](https://github.com/iss2022-BCR/WasteService)
+### [廃棄物サービス](https://github.com/iss2022-BCR/WasteService)
 
 <a href="https://github.com/iss2022-BCR/WasteService"><img alt="WasteService Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=iss2022-BCR&repo=WasteService"></a>
 
