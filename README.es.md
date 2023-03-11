@@ -29,8 +29,8 @@
 
 ## 👋 ¡Hola! Soy Michele 😃
 
--   📍 Nacido en San Marino <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bolonia, Italia <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
--   📚 Estudiante de Maestría en Ingeniería Informática en 🏫 Estudios Alma Mater - Universidad de Bolonia.
+-   📍 Nacido en San Marino <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/sm.svg"></kbd>🤍💙, actualmente viviendo en Bologna, Italia <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd>.
+-   📚 Estudiante de Maestría en Ingeniería Informática en 🏫 Alma Mater Studiorum - Universidad de Bologna.
 -   💡 Código abierto y 🎮 entusiasta del desarrollo de juegos.
 
 ## 🧰 Habilidades
