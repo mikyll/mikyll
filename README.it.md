@@ -150,8 +150,8 @@
 [forks-url]: https://github.com/mikyll/mikyll
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-5C5C5C?style=flat&logo=buy-me-a-coffee&logoColor=yellow
 [coffee-url]: https://www.buymeacoffee.com/mikyll
-[resume-short-shield]: https://img.shields.io/badge/Download%20Resume%20(Short)-blue?style=for-the-badge
-[resume-full-shield]: https://img.shields.io/badge/Download%20Resume%20(Full)-blue?style=for-the-badge
+[resume-short-shield]: https://img.shields.io/badge/Scarica%20il%20CV%20(Ridotto)-blue?style=for-the-badge
+[resume-full-shield]: https://img.shields.io/badge/Scarica%20il%20CV%20(Completo)-blue?style=for-the-badge
 [resume-en-full-url]: https://github.com/mikyll/CV/releases/download/Current/Michele_Righi_CV_en_full.pdf
 [resume-en-short-url]: https://github.com/mikyll/CV/releases/download/Current/Michele_Righi_CV_en_short.pdf
 [resume-it-full-url]: https://github.com/mikyll/CV/releases/download/Current/Michele_Righi_CV_it_full.pdf
