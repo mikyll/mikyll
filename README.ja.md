@@ -25,6 +25,8 @@
   [![Total Stars][totstars-shield]][totstars-url]
   [![Repo Forks][forks-shield]][forks-url]
   [![Buy me a Coffee][coffee-shield]][coffee-url]
+
+  [![Download Short Resume][resume-short-shield]][resume-en-short-url] &nbsp;&nbsp; [![Download Full Resume][resume-full-shield]][resume-en-full-url]
 </div>
 
 ## 👋こんにちは！わたしは Michele😃
@@ -140,22 +142,20 @@
 </details>
 
 <!-- Shields -->
-
 [followers-shield]: https://img.shields.io/github/followers/mikyll
-
 [followers-url]: https://github.com/mikyll
-
 [totstars-shield]: https://img.shields.io/github/stars/mikyll?affiliations=OWNER%2CCOLLABORATOR
-
 [totstars-url]: https://github.com/mikyll
-
 [forks-shield]: https://img.shields.io/github/forks/mikyll/mikyll
-
 [forks-url]: https://github.com/mikyll/mikyll
-
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-5C5C5C?style=flat&logo=buy-me-a-coffee&logoColor=yellow
-
 [coffee-url]: https://www.buymeacoffee.com/mikyll
+[resume-short-shield]: https://img.shields.io/badge/Download%20Resume%20(Short)-blue?style=for-the-badge
+[resume-full-shield]: https://img.shields.io/badge/Download%20Resume%20(Full)-blue?style=for-the-badge
+[resume-en-full-url]: https://github.com/mikyll/CV/releases/download/Current/Michele_Righi_CV_en_full.pdf
+[resume-en-short-url]: https://github.com/mikyll/CV/releases/download/Current/Michele_Righi_CV_en_short.pdf
+[resume-it-full-url]: https://github.com/mikyll/CV/releases/download/Current/Michele_Righi_CV_it_full.pdf
+[resume-it-short-url]: https://github.com/mikyll/CV/releases/download/Current/Michele_Righi_CV_it_short.pdf
 
 <!--
 Resources:
