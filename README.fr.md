@@ -107,8 +107,10 @@
 
 <p align="center">
   <!--<a href="https://github.com/mikyll/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>-->
-  <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true"></a>
-  <a href="https://github.com/mikyll/mikyll"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8"></a>
+  <a href="https://github.com/mikyll/mikyll#gh-light-mode-only"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true&theme=light#gh-light-mode-only"></a>
+  <a href="https://github.com/mikyll/mikyll#gh-dark-mode-only"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true&theme=dark#gh-dark-mode-only"></a>
+  <a href="https://github.com/mikyll/mikyll#gh-light-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8&theme=light#gh-light-mode-only"></a>
+  <a href="https://github.com/mikyll/mikyll#gh-dark-mode-only"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"></a>
   <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
   <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </p>
