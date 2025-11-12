@@ -1,7 +1,7 @@
 ## De Me
 
 -   DevOps ipsum at[SCM Group](https://www.scmgroup.com/en)
--   Natus in[San Marino](https://en.wikipedia.org/wiki/San_Marino)🇸🇲
+-   Natus in[San Marino](https://en.wikipedia.org/wiki/San_Marino) 🇸🇲
 -   Computer Engineering MSc lectus at[Alma Mater Studiorum](https://corsi.unibo.it/2cycle/ComputerEngineering), University of Bologna
 -   Tech BIBLIOTHECA:
     -   Instrumenta et compages: Cloud, Continentes, Kubernetes, Flutter, Unitas, Blender
