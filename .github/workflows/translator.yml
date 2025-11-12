@@ -1,10 +1,8 @@
 name: Translate README
 
 on:
-  push:
-    branches:
-      - main
-      - master
+  workflow_dispatch:
+
 jobs:
   translate_readme:
     runs-on: ubuntu-latest
