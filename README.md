@@ -8,8 +8,8 @@
 - ✨ Videogames, volleyball, anime, cosplay
 - 🌐 More on my [personal website](https://mikyll.github.io)
 
-<img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-<img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/snake-output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+<img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/snake-output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 
 <!-- Shields -->
 [followers-shield]: https://img.shields.io/github/followers/mikyll
