@@ -1,18 +1,12 @@
 name: Update Commits Data for Snake
 
 on:
-  # run automatically every day at 8:00
+  # Run automatically every day at 8:00
   schedule:
     - cron: "0 8 * * *"
   
-  # allows to manually run the job at any time
+  # Allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the main branch
-  #push:
-  #  branches:
-  #  - main
-
 
 jobs:
   generate:
@@ -22,7 +16,7 @@ jobs:
     steps:
       # Generate Snake SVG animation: generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.3.0
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -35,13 +29,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#727272&color_dots=#0078d7,#d83b01,#107c10,#ffb900
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push github-contribution-grid-snake.svg to the target branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: snake-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
