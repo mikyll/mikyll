@@ -6,7 +6,7 @@
 -   Tech BIBLIOTHECA:
     -   Instrumenta et compages: Cloud, Continentes, Kubernetes, Flutter, Unitas, Blender
     -   Programmatio linguarum: C, Java, Python, Bash, Lua, JavaScript, Go
--   💡[US](https://github.com/pulls?q=is%3Apr+author%3Amikyll+archived%3Afalse+is%3Amerged+-user%3Amikyll)et ludum progressionem
+-   💡 [US](https://github.com/pulls?q=is%3Apr+author%3Amikyll+archived%3Afalse+is%3Amerged+-user%3Amikyll)et ludum progressionem
 -   ✨ Video, pulvinar, anime, cosplay
 -   Contact me at[righi.michele98@gmail.com](mailto:righi.michele98@gmail.com)
 -   More info on my[personale website](https://mikyll.github.io)
