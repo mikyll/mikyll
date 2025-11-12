@@ -1,4 +1,4 @@
-name: Update Commits Data for Snake
+name: Generate Snake SVG
 
 on:
   # Run automatically every day at 8:00
