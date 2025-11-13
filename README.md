@@ -7,7 +7,7 @@
   - Tools and frameworks: Cloud, Containers, Kubernetes, Flutter, Unity, Blender
   - Programming languages: C, Java, Python, Bash, Lua, JavaScript, Go
 - 💡 [OSS](https://github.com/pulls?q=is%3Apr+author%3Amikyll+archived%3Afalse+is%3Amerged+-user%3Amikyll) and game development 🎮
-- ✨ Videogames, volleyball, anime, cosplay
+- 🕹️ Videogames, volleyball, anime, cosplay
 - 📫 Contact me at [righi.michele98@gmail.com](mailto:righi.michele98@gmail.com)
 - 🌐 More info on my [personal website](https://mikyll.github.io)
 
