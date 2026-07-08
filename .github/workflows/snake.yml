@@ -20,6 +20,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           #  supported options:
           #  - palette:     A preset of color, one of [github, github-dark, github-light]
           #  - color_snake: Color of the snake
